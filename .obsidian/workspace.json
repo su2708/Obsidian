@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "d7a7641844d5df11",
+    "type": "split",
+    "children": [
+      {
+        "id": "c66dfe08ed8d406d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb321475509e6066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/임시 노트/호가 창 분석과 단타.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c73ec8183cee757f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d63ccb0d03b5080d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f59859f44c77e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04d1fe02db8fec30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "712610e3b217078c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f55427638264966",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cd0f22ccf47f47e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365f0285c1f8d03b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "note/임시 노트/호가 창 분석과 단타.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e4b509d1a4cf4937",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "note/임시 노트/호가 창 분석과 단타.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "841674c75f81bfc5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a8054e1a7930350",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "note/임시 노트/호가 창 분석과 단타.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:그래프 뷰 열기": false,
+      "switcher:퀵 스위처 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "bb321475509e6066",
+  "lastOpenFiles": [
+    "note/임시 노트/호가 창 분석과 단타.md",
+    "note/임시 노트/주식과 펀드의 차이.md",
+    "note/임시 노트/노트 템플릿 사용.md",
+    "note/옵시디언연습/옵시디언 메모링크.md",
+    "note/옵시디언연습/옵시디언 사용법 설명서.md",
+    "note/옵시디언연습/옵시디언 마크다운.md",
+    "note/노트 템플릿/Zettelkasten.md",
+    "note/옵시디언연습/제텔카스텐이란.md",
+    "note/영구 노트/주식/하승훈의 주식투자tv/호가창 보는 법/호가창 분석과 단타.md",
+    "무제 파일.md",
+    "스크린샷 2024-03-12 092745.png",
+    "note/영구 노트/주식/하승훈의 주식투자tv/호가창 보는 법",
+    "note/영구 노트/주식/하승훈의 주식투자tv"
+  ]
+}

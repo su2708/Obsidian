@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "2f54aa0192cd91ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ccaab56c472fe30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1655bcbe56e790f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "임시 노트/주식과 펀드의 차이.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8935b47f0f063f77",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a0149a22f233fdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da91ec3bcffc20c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f128ef1297f0923",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb379f502e7f84c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08c88bce6f22c934",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6b1953369ca8957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03cc781d0dccdec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "임시 노트/주식과 펀드의 차이.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "af293ae196010f70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "임시 노트/주식과 펀드의 차이.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a99ad153516f24f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d72662d045ee086d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "임시 노트/주식과 펀드의 차이.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "e1655bcbe56e790f",
+  "lastOpenFiles": [
+    "옵시디언연습/제텔카스텐이란.md",
+    "임시 노트/주식과 펀드의 차이.md",
+    "임시 노트/노트 템플릿 사용.md",
+    "옵시디언연습/옵시디언 사용법 설명서.md",
+    "옵시디언연습/옵시디언 메모링크.md",
+    "옵시디언연습/옵시디언 마크다운.md",
+    "임시 노트/원하는 메모 링크 방법.md",
+    "노트 템플릿/Zettelkasten.md",
+    "메모 템플릿/Zettelkasten.md",
+    "임시 노트.md",
+    "메모 템플릿",
+    "영구 노트",
+    "임시 노트"
+  ]
+}
