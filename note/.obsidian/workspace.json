@@ -128,8 +128,17 @@
                 "file": "임시 노트/호가 창 분석과 단타.md"
               }
             }
+          },
+          {
+            "id": "f145edf5f9feec76",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
