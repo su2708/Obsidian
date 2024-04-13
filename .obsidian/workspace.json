@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aa4274b52ebe898a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +148,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa4274b52ebe898a",
+  "active": "bb321475509e6066",
   "lastOpenFiles": [
     "note/영구 노트/주식/하승훈의 주식투자tv/호가창 보는 법/호가 창 분석과 단타.md",
     "note/영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙9.png",
