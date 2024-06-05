@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6ccaab56c472fe30",
+        "id": "489c4c8583258064",
         "type": "tabs",
         "children": [
           {
-            "id": "e1655bcbe56e790f",
+            "id": "46d012c089ac7bca",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "2a32072284b190ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구 노트/주식/대왕개미 홍인기/라이브 방송 녹화/4.16 (화).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/주식/대왕개미 홍인기/라이브 방송 녹화/4.16 (화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/주식/대왕개미 홍인기/라이브 방송 녹화/4.16 (화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "영구 노트/주식/대왕개미 홍인기/라이브 방송 녹화/4.16 (화).md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,12 +149,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2a32072284b190ff",
+  "active": "46d012c089ac7bca",
   "lastOpenFiles": [
+    "영구 노트/주식/대왕개미 홍인기/매매일지/무제 파일.md",
+    "영구 노트/주식/대왕개미 홍인기/매매일지/4.16 (화).md",
+    "임시 노트/노트 템플릿 사용.md",
+    "임시 노트/무제 파일.md",
+    "노트 템플릿/매매일지.md",
+    "노트 템플릿/Zettelkasten.md",
     "영구 노트/주식/대왕개미 홍인기/트레이딩 기본 원칙 A to Z.md",
-    "영구 노트/주식/대왕개미 홍인기/라이브 방송 녹화/4.16 (화).md",
     "옵시디언연습/옵시디언 마크다운.md",
-    "영구 노트/주식/대왕개미 홍인기/라이브 방송 녹화",
+    "영구 노트/주식/대왕개미 홍인기/매매일지",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙48.png",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙47.png",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙46.png",
@@ -191,12 +179,10 @@
     "영구 노트/주식",
     "영구 노트",
     "임시 노트/주식과 펀드의 차이.md",
-    "임시 노트/노트 템플릿 사용.md",
     "옵시디언연습/제텔카스텐이란.md",
     "옵시디언연습/옵시디언 사용법 설명서.md",
     "옵시디언연습/옵시디언 메모링크.md",
     "임시 노트/원하는 메모 링크 방법.md",
-    "노트 템플릿/Zettelkasten.md",
     "메모 템플릿/Zettelkasten.md",
     "임시 노트.md",
     "메모 템플릿",
