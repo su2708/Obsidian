@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "489c4c8583258064",
+        "id": "114de3df9b5b5cc9",
         "type": "tabs",
         "children": [
           {
-            "id": "46d012c089ac7bca",
+            "id": "8a833bb5af2b6623",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언연습/옵시디언 마크다운.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed4569b7410e4625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "08c88bce6f22c934",
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,26 +139,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed4569b7410e4625",
+  "active": "8a833bb5af2b6623",
   "lastOpenFiles": [
     "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
-    "옵시디언연습/옵시디언 마크다운.md",
-    "무제 폴더",
-    "영구 노트/주식/대왕개미 홍인기/매매일지/무제 파일.md",
-    "영구 노트/주식/대왕개미 홍인기/매매일지/4.16 (화).md",
-    "임시 노트/노트 템플릿 사용.md",
+    "영구 노트/노트 템플릿 사용.md",
+    "영구 노트/주식/대왕개미 홍인기/0424(수) 1회차 라이브.md",
     "임시 노트/무제 파일.md",
+    "임시 노트/2024-06-18.md",
+    "옵시디언연습/옵시디언 메모링크.md",
+    "무제 폴더 1",
+    "무제 폴더",
+    "옵시디언연습/옵시디언 마크다운.md",
+    "임시 노트/주식과 펀드의 차이.md",
+    "옵시디언연습/옵시디언 사용법 설명서.md",
     "노트 템플릿/매매일지.md",
+    "노트 템플릿/Drawing 2024-06-18 13.21.52.excalidraw.md",
+    "영구 노트/주식/대왕개미 홍인기/매매일지/4.16 (화).md",
     "노트 템플릿/Zettelkasten.md",
     "영구 노트/주식/대왕개미 홍인기/트레이딩 기본 원칙 A to Z.md",
     "영구 노트/주식/대왕개미 홍인기/매매일지",
@@ -202,14 +186,10 @@
     "영구 노트/주식/대왕개미 홍인기",
     "영구 노트/주식",
     "영구 노트",
-    "임시 노트/주식과 펀드의 차이.md",
     "옵시디언연습/제텔카스텐이란.md",
-    "옵시디언연습/옵시디언 사용법 설명서.md",
-    "옵시디언연습/옵시디언 메모링크.md",
     "임시 노트/원하는 메모 링크 방법.md",
     "메모 템플릿/Zettelkasten.md",
     "임시 노트.md",
-    "메모 템플릿",
-    "임시 노트"
+    "메모 템플릿"
   ]
 }
