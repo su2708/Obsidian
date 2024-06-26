@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
+                "file": "영구 노트/주식/대왕개미 홍인기/0424(수) 1회차 라이브.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
+                "file": "영구 노트/주식/대왕개미 홍인기/0424(수) 1회차 라이브.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md"
+                "file": "영구 노트/주식/대왕개미 홍인기/0424(수) 1회차 라이브.md"
               }
             }
           },
@@ -169,10 +170,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a833bb5af2b6623",
+  "active": "bede31c8e685066e",
   "lastOpenFiles": [
-    "영구 노트/주식/대왕개미 홍인기/0424(수) 1회차 라이브.md",
     "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
+    "영구 노트/주식/대왕개미 홍인기/0424(수) 1회차 라이브.md",
     "영구 노트/노트 템플릿 사용.md",
     "임시 노트/무제 파일.md",
     "임시 노트/2024-06-18.md",
