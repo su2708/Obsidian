@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af88a705a6b19691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "노트 템플릿/SQL CODEKATA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a5119c5d1bcfd05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.08.29 TIL.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.08.29 TIL.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.08.29 TIL.md"
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md"
               }
             }
           },
@@ -157,11 +182,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "faef93c96afc929d",
+  "active": "da91ec3bcffc20c7",
   "lastOpenFiles": [
+    "노트 템플릿/SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.29 TIL.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL",
+    "영구 노트/스파르타코딩클럽/CODEKATA/새 폴더",
+    "영구 노트/스파르타코딩클럽/CODEKATA",
+    "영구 노트/스파르타코딩클럽/새 폴더",
     "노트 템플릿/TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.08.28 TIL.md",
-    "영구 노트/스파르타코딩클럽/TIL/2024.08.29 TIL.md",
     "영구 노트/노트 템플릿 사용.md",
     "옵시디언연습/옵시디언 메모링크.md",
     "옵시디언연습/옵시디언 마크다운.md",
@@ -197,13 +229,6 @@
     "임시 노트/호가 창 분석과 단타.md",
     "영구 노트/주식/하승훈의 주식투자tv/호가창 보는 법/호가 창 분석과 단타.md",
     "영구 노트/주식/하승훈의 주식투자tv/호가창 보는 법",
-    "영구 노트/주식/하승훈의 주식투자tv",
-    "영구 노트/주식/대왕개미 홍인기/사진자료",
-    "영구 노트/주식/대왕개미 홍인기",
-    "영구 노트/주식",
-    "영구 노트",
-    "임시 노트/원하는 메모 링크 방법.md",
-    "메모 템플릿/Zettelkasten.md",
-    "임시 노트.md"
+    "임시 노트/원하는 메모 링크 방법.md"
   ]
 }
