@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노트 템플릿/TIL.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/2024.08.28 TIL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faef93c96afc929d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "영구 노트/노트 템플릿 사용.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노트 템플릿/TIL.md",
+                "file": "영구 노트/노트 템플릿 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노트 템플릿/TIL.md",
+                "file": "영구 노트/노트 템플릿 사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노트 템플릿/TIL.md"
+                "file": "영구 노트/노트 템플릿 사용.md"
               }
             }
           },
@@ -170,22 +182,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a8db50856a53501",
+  "active": "faef93c96afc929d",
   "lastOpenFiles": [
+    "옵시디언연습/옵시디언 메모링크.md",
+    "옵시디언연습/옵시디언 마크다운.md",
+    "옵시디언연습/옵시디언 사용법 설명서.md",
+    "옵시디언연습/제텔카스텐이란.md",
+    "영구 노트/스파르타코딩클럽/TIL/무제 파일.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.08.28 TIL.md",
     "노트 템플릿/TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.08.27 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.26 TIL.md",
     "노트 템플릿/Zettelkasten.md",
     "노트 템플릿/매매일지.md",
     "영구 노트/노트 템플릿 사용.md",
-    "영구 노트/스파르타코딩클럽/TIL/2024.08.26 TIL.md",
-    "노트 템플릿/TIL.md",
     "영구 노트/스파르타코딩클럽/TIL",
     "영구 노트/스파르타코딩클럽",
-    "옵시디언연습/옵시디언 마크다운.md",
-    "옵시디언연습/옵시디언 사용법 설명서.md",
-    "옵시디언연습/옵시디언 메모링크.md",
-    "옵시디언연습/제텔카스텐이란.md",
     "임시 노트/주식과 펀드의 차이.md",
     "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
     "임시 노트/0424(수) 1회차 라이브.md",
