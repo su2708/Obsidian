@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "faef93c96afc929d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.08.29 TIL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af88a705a6b19691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "노트 템플릿/SQL CODEKATA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1a5119c5d1bcfd05",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +157,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da91ec3bcffc20c7",
+  "active": "1a5119c5d1bcfd05",
   "lastOpenFiles": [
     "노트 템플릿/SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
