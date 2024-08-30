@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98cd6951cb2360f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "312a020d9f6b3ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.08.30 TIL.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.08.30 TIL.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.08.30 TIL.md"
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/무제 파일.md"
               }
             }
           },
@@ -170,10 +194,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53f62a525aec75fd",
+  "active": "312a020d9f6b3ff4",
   "lastOpenFiles": [
-    "노트 템플릿/WIL.md",
+    "노트 템플릿/SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/무제 파일.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/WIL/1주차 WIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.08.30 TIL.md",
+    "노트 템플릿/WIL.md",
     "영구 노트/스파르타코딩클럽/WIL",
     "영구 노트/스파르타코딩클럽/TIL/2024.08.29 TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.08.28 TIL.md",
@@ -182,8 +210,6 @@
     "영구 노트/스파르타코딩클럽/TIL/2024.08.27 TIL.md",
     "옵시디언연습/옵시디언 마크다운.md",
     "옵시디언연습/옵시디언 메모링크.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
-    "노트 템플릿/SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL",
     "영구 노트/스파르타코딩클럽/CODEKATA/새 폴더",
@@ -205,7 +231,6 @@
     "무제 폴더 1",
     "노트 템플릿/Drawing 2024-06-18 13.21.52.excalidraw.md",
     "영구 노트/주식/대왕개미 홍인기/매매일지/4.16 (화).md",
-    "영구 노트/주식/대왕개미 홍인기/트레이딩 기본 원칙 A to Z.md",
     "영구 노트/주식/대왕개미 홍인기/매매일지",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙48.png",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙47.png",
@@ -216,7 +241,6 @@
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙42.png",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙41.png",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙40.png",
-    "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙39.png",
-    "임시 노트/호가 창 분석과 단타.md"
+    "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙39.png"
   ]
 }
