@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
+                "file": "옵시디언연습/옵시디언 마크다운.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
+                "file": "옵시디언연습/옵시디언 마크다운.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
+                "file": "옵시디언연습/옵시디언 마크다운.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md"
+                "file": "옵시디언연습/옵시디언 마크다운.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "1a5119c5d1bcfd05",
   "lastOpenFiles": [
-    "노트 템플릿/SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
+    "노트 템플릿/SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.08.29 TIL.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL",
