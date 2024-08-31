@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "114de3df9b5b5cc9",
+        "id": "ad80b6ba648dc27a",
         "type": "tabs",
         "children": [
           {
-            "id": "c77428029877f925",
+            "id": "c1dd03366bb045c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.03 알고리즘 CODEKATA.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.04 알고리즘 CODEKATA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.03 알고리즘 CODEKATA.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.04 알고리즘 CODEKATA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.03 알고리즘 CODEKATA.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.04 알고리즘 CODEKATA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.03 알고리즘 CODEKATA.md"
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.04 알고리즘 CODEKATA.md"
               }
             }
           },
@@ -157,10 +157,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c77428029877f925",
+  "active": "c1dd03366bb045c6",
   "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.02 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.03 알고리즘 CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.04 알고리즘 CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.02 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.01 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.08.31 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.08.30 알고리즘 CODEKATA.md",
@@ -190,7 +191,6 @@
     "영구 노트/스파르타코딩클럽/CODEKATA",
     "영구 노트/스파르타코딩클럽/새 폴더",
     "영구 노트/노트 템플릿 사용.md",
-    "옵시디언연습/옵시디언 사용법 설명서.md",
     "영구 노트/스파르타코딩클럽/TIL",
     "영구 노트/스파르타코딩클럽",
     "무제 폴더 1",
