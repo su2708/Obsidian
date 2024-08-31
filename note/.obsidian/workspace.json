@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f6c0fc1ed7312a0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "노트 템플릿/Zettelkasten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "08c88bce6f22c934",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노트 템플릿/Zettelkasten.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.04 알고리즘 CODEKATA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노트 템플릿/Zettelkasten.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.04 알고리즘 CODEKATA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노트 템플릿/Zettelkasten.md"
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.04 알고리즘 CODEKATA.md"
               }
             }
           },
@@ -170,22 +158,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6c0fc1ed7312a0f",
+  "active": "84420d088f382e03",
   "lastOpenFiles": [
-    "노트 템플릿/WIL.md",
     "노트 템플릿/TIL.md",
-    "노트 템플릿/SQL CODEKATA.md",
-    "노트 템플릿/알고리즘 CODEKATA.md",
-    "노트 템플릿/매매일지.md",
-    "임시 노트/2056.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.04 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/TIL/2024.08.26 TIL.md",
-    "영구 노트/노트 템플릿 사용.md",
-    "임시 노트/2024-08-31.md",
+    "영구 노트/스파르타코딩클럽/WIL/1주차 WIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.08.30 TIL.md",
-    "Excalidraw/Drawing 2024-08-31 19.03.09.excalidraw.md",
-    "Excalidraw",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.29 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.28 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.27 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.26 TIL.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.28 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.27 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.04 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.03 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.02 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.01 알고리즘 CODEKATA.md",
@@ -195,11 +180,14 @@
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.08.28 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.08.27 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.08.26 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.27 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/WIL/1주차 WIL.md",
+    "노트 템플릿/Zettelkasten.md",
+    "노트 템플릿/WIL.md",
+    "노트 템플릿/SQL CODEKATA.md",
+    "노트 템플릿/알고리즘 CODEKATA.md",
+    "노트 템플릿/매매일지.md",
+    "임시 노트/2056.md",
+    "Excalidraw",
     "영구 노트/스파르타코딩클럽/WIL",
-    "영구 노트/스파르타코딩클럽/TIL/2024.08.29 TIL.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL",
     "영구 노트/스파르타코딩클럽/CODEKATA/새 폴더",
