@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.03 TIL.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.08 알고리즘 CODEKATA.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "08c88bce6f22c934",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.03 TIL.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.08 알고리즘 CODEKATA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.03 TIL.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.08 알고리즘 CODEKATA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.03 TIL.md"
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.08 알고리즘 CODEKATA.md"
               }
             }
           },
@@ -160,8 +159,16 @@
   },
   "active": "84420d088f382e03",
   "lastOpenFiles": [
-    "노트 템플릿/TIL.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.07 알고리즘 CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.06 알고리즘 CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.05 알고리즘 CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.08 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.07 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.06 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.05 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.04 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.03 TIL.md",
+    "노트 템플릿/TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.08.29 TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.08.30 TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.02 TIL.md",
@@ -172,15 +179,7 @@
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.26 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.02 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.08 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.07 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.06 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.05 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.04 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.08 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.07 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.06 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.05 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.04 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.27 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.28 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.08.29 SQL CODEKATA.md",
