@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 2. 날짜별 획득 포인트 조회하기.md",
+                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 3. 이용자의 포인트 조회하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "08c88bce6f22c934",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 2. 날짜별 획득 포인트 조회하기.md",
+                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 3. 이용자의 포인트 조회하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 2. 날짜별 획득 포인트 조회하기.md",
+                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 3. 이용자의 포인트 조회하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 2. 날짜별 획득 포인트 조회하기.md"
+                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 3. 이용자의 포인트 조회하기.md"
               }
             }
           },
@@ -161,8 +160,9 @@
   },
   "active": "84420d088f382e03",
   "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 1. 단골 고객님 찾기.md",
     "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 2. 날짜별 획득 포인트 조회하기.md",
+    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 3. 이용자의 포인트 조회하기.md",
+    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 1. 단골 고객님 찾기.md",
     "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 4. 단골 고객님 찾기.md",
     "영구 노트/스파르타코딩클럽/달리기반/Python/Lv1. 랜덤 닉네임 생성기.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.10 TIL.md",
@@ -187,7 +187,6 @@
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.07 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.06 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.02 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/TIL/2024.09.04 TIL.md",
     "영구 노트/스파르타코딩클럽/달리기반/python",
     "영구 노트/스파르타코딩클럽/달리기반/SQL",
     "영구 노트/스파르타코딩클럽/달리기반",
