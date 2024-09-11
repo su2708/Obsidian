@@ -42,5 +42,57 @@
 ## 내 답변
 
 ```sql
+/*문제 1번*/
+select e.Name ,
+	e.Department ,
+	e.Salary ,
+	COALESCE(finalTable.Name, depMax.Top_Earner) AS Top_Earner,
+	COALESCE(finalTable.Salary, depMax.Top_Salary) AS Top_Salary
+from employees e
 
+-- 최고 연봉자
+left join (
+	select Department, max(Salary) as Top_Salary,
+		(select Name
+		from employees e2
+		where e2.Department = e1.Department 
+		and e2.Salary = max(e1.Salary)) as Top_Earner
+	from employees e1
+	group by Department
+) as depMax on e.Department = depMax.Department
+
+-- 최고 연봉
+left join (
+	select e.Name ,
+		e.Department ,
+		e.Salary
+	from employees e
+	join (
+		select Department , max(Salary) as Top_Salary
+		from employees
+		group by 1
+	) as depMax on e.Department = depMax.Department and e.Salary = depMax.Top_Salary
+) as finalTable on e.Name = finalTable.Name
+
+/*문제 2번*/
+select Department ,
+	avg_sal as Avg_Salary
+from
+(
+select Department ,
+	num_dept ,
+	rank() over (order by avg_sal desc) ranking ,
+	avg_sal
+from
+	(
+	select Department ,
+		count(Department) num_dept,
+		avg(Salary) avg_sal
+	from employees e1
+	group by 1
+	) p
+) q
+where ranking = 1
+order by num_dept desc
+limit 1
 ```
