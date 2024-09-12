@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e5e1478c97a3d76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.12 TIL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 5. 가장 높은 월급을 받는 직원 찾기.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.12 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 5. 가장 높은 월급을 받는 직원 찾기.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.12 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 5. 가장 높은 월급을 받는 직원 찾기.md"
+                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.12 TIL.md"
               }
             }
           },
@@ -158,35 +171,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84420d088f382e03",
+  "active": "7e5e1478c97a3d76",
   "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 4. 단골 고객님 찾기.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.11 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.12 TIL.md",
     "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 5. 가장 높은 월급을 받는 직원 찾기.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.10 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.06 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.04 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.03 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.02 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.30 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.29 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.28 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.27 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.26 TIL.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.12 알고리즘 CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.12 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 4. 단골 고객님 찾기.md",
     "영구 노트/스파르타코딩클럽/달리기반/Python/Lv1. 랜덤 닉네임 생성기.md",
     "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 3. 이용자의 포인트 조회하기.md",
     "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 2. 날짜별 획득 포인트 조회하기.md",
-    "영구 노트/스파르타코딩클럽/TIL/2024.09.11 TIL.md",
-    "영구 노트/스파르타코딩클럽/TIL/2024.09.10 TIL.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.11 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.11 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 1. 단골 고객님 찾기.md",
     "영구 노트/스파르타코딩클럽/달리기반/Python",
-    "영구 노트/스파르타코딩클럽/TIL/2024.09.06 TIL.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.15 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.14 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.13 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.12 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.10 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.15 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.14 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.13 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.12 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.10 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.09 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.08 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.09 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.08 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.07 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/달리기반/python",
     "영구 노트/스파르타코딩클럽/달리기반/SQL",
     "영구 노트/스파르타코딩클럽/달리기반",
