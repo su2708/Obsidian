@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7e5e1478c97a3d76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.12 TIL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.12 TIL.md",
+                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 5. 가장 높은 월급을 받는 직원 찾기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.12 TIL.md",
+                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 5. 가장 높은 월급을 받는 직원 찾기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.12 TIL.md"
+                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 5. 가장 높은 월급을 받는 직원 찾기.md"
               }
             }
           },
@@ -171,11 +158,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e5e1478c97a3d76",
+  "active": "84420d088f382e03",
   "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/TIL/2024.09.11 TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.12 TIL.md",
     "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 5. 가장 높은 월급을 받는 직원 찾기.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.11 TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.10 TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.06 TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.04 TIL.md",
