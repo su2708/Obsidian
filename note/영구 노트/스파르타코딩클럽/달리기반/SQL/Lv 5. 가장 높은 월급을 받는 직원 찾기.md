@@ -2,16 +2,16 @@
 
 **Employees** 테이블:
 
-|EmployeeID|Name|Department|Salary|ManagerID|
-|---|---|---|---|---|
-|1|Alice|HR|70000|NULL|
-|2|Bob|IT|90000|1|
-|3|Charlie|IT|80000|2|
-|4|David|IT|85000|2|
-|5|Eve|HR|75000|1|
-|6|Frank|Finance|95000|NULL|
-|7|Grace|Finance|80000|6|
-|8|Heidi|IT|95000|2|
+| EmployeeID | Name    | Department | Salary | ManagerID |
+| ---------- | ------- | ---------- | ------ | --------- |
+| 1          | Alice   | HR         | 70000  | NULL      |
+| 2          | Bob     | IT         | 90000  | 1         |
+| 3          | Charlie | IT         | 80000  | 2         |
+| 4          | David   | IT         | 85000  | 2         |
+| 5          | Eve     | HR         | 75000  | 1         |
+| 6          | Frank   | Finance    | 95000  | NULL      |
+| 7          | Grace   | Finance    | 80000  | 6         |
+| 8          | Heidi   | IT         | 95000  | 2         |
 
 ---
 ### 요구사항
