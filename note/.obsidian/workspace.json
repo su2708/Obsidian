@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.20 SQL CODEKATA.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.21 SQL CODEKATA.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "08c88bce6f22c934",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.20 SQL CODEKATA.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.21 SQL CODEKATA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.20 SQL CODEKATA.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.21 SQL CODEKATA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.20 SQL CODEKATA.md"
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.21 SQL CODEKATA.md"
               }
             }
           },
@@ -160,8 +161,9 @@
   },
   "active": "84420d088f382e03",
   "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.19 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.20 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.21 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.19 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.09.15 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.15 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.18 SQL CODEKATA.md",
@@ -185,7 +187,6 @@
     "영구 노트/스파르타코딩클럽/TIL/2024.09.03 TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.02 TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.08.30 TIL.md",
-    "영구 노트/스파르타코딩클럽/TIL/2024.08.29 TIL.md",
     "영구 노트/스파르타코딩클럽/달리기반/Python",
     "영구 노트/스파르타코딩클럽/달리기반/python",
     "영구 노트/스파르타코딩클럽/달리기반/SQL",
