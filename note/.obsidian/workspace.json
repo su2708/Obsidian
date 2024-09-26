@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.25 TIL.md",
+                "file": "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.25 TIL.md",
+                "file": "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.25 TIL.md",
+                "file": "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/2024.09.25 TIL.md"
+                "file": "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md"
               }
             }
           },
@@ -160,8 +160,10 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
-    "영구 노트/노마드코더/유튜브 클론코딩/4. ROUTERS.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.26 TIL.md",
+    "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.25 TIL.md",
+    "영구 노트/노마드코더/유튜브 클론코딩/4. ROUTERS.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.24 TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.23 TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.20 TIL.md",
@@ -188,8 +190,6 @@
     "영구 노트/스파르타코딩클럽/WIL/1주차 WIL.md",
     "영구 노트/스파르타코딩클럽/WIL/3주차 WIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.13 TIL.md",
-    "영구 노트/스파르타코딩클럽/TIL/2024.09.12 TIL.md",
-    "영구 노트/스파르타코딩클럽/TIL/2024.09.11 TIL.md",
     "영구 노트/스파르타코딩클럽/달리기반/Python",
     "영구 노트/스파르타코딩클럽/달리기반/python",
     "영구 노트/스파르타코딩클럽/달리기반/SQL",
