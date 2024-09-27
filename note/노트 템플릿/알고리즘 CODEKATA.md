@@ -1,1 +1,0 @@
-#알고리즘 #codekata #스파르타코딩클럽 [[알고리즘 CODEKATA]]

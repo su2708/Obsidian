@@ -1,3 +1,4 @@
+[[Note Template]]
 
 ### 날짜: {{date: YYYY-MM-DD}} {{time}}
 

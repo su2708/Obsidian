@@ -1,1 +1,0 @@
-#codekata #sql #스파르타코딩클럽 [[SQL CODEKATA]]

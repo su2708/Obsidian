@@ -1,1 +1,1 @@
-#Nomad_Coder [[Nomad Coder]]
+#Nomad_Coder [[Note Template]]
