@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
+                "file": "영구 노트/노마드코더/유튜브 클론코딩/6. MONGODB AND MONGOOSE.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "08c88bce6f22c934",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
+                "file": "영구 노트/노마드코더/유튜브 클론코딩/6. MONGODB AND MONGOOSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
+                "file": "영구 노트/노마드코더/유튜브 클론코딩/6. MONGODB AND MONGOOSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md"
+                "file": "영구 노트/노마드코더/유튜브 클론코딩/6. MONGODB AND MONGOOSE.md"
               }
             }
           },
@@ -160,35 +160,35 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
+    "영구 노트/스파르타코딩클럽/WIL/5주차 WIL.md",
+    "영구 노트/노마드코더/유튜브 클론코딩/6. MONGODB AND MONGOOSE.md",
+    "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.27 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.26 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.25 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.23 TIL.md",
+    "영구 노트/스파르타코딩클럽/WIL/3주차 WIL.md",
+    "영구 노트/노트 템플릿 사용.md",
+    "옵시디언연습/옵시디언 메모링크.md",
+    "옵시디언연습/옵시디언 마크다운.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.24 TIL.md",
+    "노트 템플릿/Note Template.md",
+    "영구 노트/노마드코더/유튜브 클론코딩/3. INTRODUCTION TO EXPRESS.md",
+    "영구 노트/노마드코더/유튜브 클론코딩/4. ROUTERS.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.20 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.19 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.09.13 TIL.md",
+    "노트 템플릿/TIL.md",
+    "노트 템플릿/WIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.28 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.27 TIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/2024.08.26 TIL.md",
     "임시 노트/주식과 펀드의 차이.md",
     "노트 템플릿/Nomad coder/Nomad Coder.md",
     "노트 템플릿/Nomad coder/Nomad Coder Youtube.md",
-    "노트 템플릿/CODEKATA/CODEKATA.md",
-    "노트 템플릿/달리기반/달리기반.md",
-    "노트 템플릿/Zettelkasten.md",
-    "노트 템플릿/WIL.md",
-    "노트 템플릿/TIL.md",
-    "노트 템플릿/매매일지.md",
-    "노트 템플릿/Note Template.md",
-    "노트 템플릿/CODEKATA/알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/2024.08.26 알고리즘 CODEKATA.md",
-    "노트 템플릿/CODEKATA/SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 1. 단골 고객님 찾기.md",
     "노트 템플릿/CODEKATA",
-    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 2. 날짜별 획득 포인트 조회하기.md",
-    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 3. 이용자의 포인트 조회하기.md",
-    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 4. 단골 고객님 찾기.md",
-    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 5. 가장 높은 월급을 받는 직원 찾기.md",
-    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 6. 가장 많이 팔린 품목 찾기.md",
-    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 7. 예산이 가장 큰 프로젝트 찾기.md",
-    "노트 템플릿/달리기반/달리기반 SQL.md",
-    "영구 노트/스파르타코딩클럽/달리기반/Python/Lv1. 랜덤 닉네임 생성기.md",
-    "노트 템플릿/달리기반/달리기반 Python.md",
     "노트 템플릿/달리기반",
-    "영구 노트/노마드코더/유튜브 클론코딩/4. ROUTERS.md",
-    "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
     "노트 템플릿/Nomad coder",
-    "영구 노트/스파르타코딩클럽/TIL/2024.09.26 TIL.md",
     "영구 노트/노마드코더/유튜브 클론코딩",
     "영구 노트/노마드코더",
     "gitignore.txt",
