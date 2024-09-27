@@ -11,8 +11,12 @@
             "id": "20955087d207a11a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 1. 단골 고객님 찾기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 1. 단골 고객님 찾기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 1. 단골 고객님 찾기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 1. 단골 고객님 찾기.md"
+              }
             }
           },
           {
@@ -152,6 +160,20 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
+    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 2. 날짜별 획득 포인트 조회하기.md",
+    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 3. 이용자의 포인트 조회하기.md",
+    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 4. 단골 고객님 찾기.md",
+    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 5. 가장 높은 월급을 받는 직원 찾기.md",
+    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 6. 가장 많이 팔린 품목 찾기.md",
+    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 7. 예산이 가장 큰 프로젝트 찾기.md",
+    "영구 노트/스파르타코딩클럽/달리기반/SQL/Lv 1. 단골 고객님 찾기.md",
+    "노트 템플릿/달리기반/달리기반 SQL.md",
+    "영구 노트/스파르타코딩클럽/달리기반/Python/Lv1. 랜덤 닉네임 생성기.md",
+    "노트 템플릿/달리기반/달리기반 Python.md",
+    "노트 템플릿/달리기반/달리기반.md",
+    "노트 템플릿/알고리즘 CODEKATA.md",
+    "노트 템플릿/SQL CODEKATA.md",
+    "노트 템플릿/달리기반",
     "영구 노트/노마드코더/유튜브 클론코딩/4. ROUTERS.md",
     "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
     "노트 템플릿/Nomad coder/Nomad Coder.md",
@@ -166,27 +188,14 @@
     "영구 노트/스파르타코딩클럽/TIL/2024.09.10 TIL.md",
     "영구 노트/스파르타코딩클럽/TIL/2024.09.06 TIL.md",
     "임시 노트/주식과 펀드의 차이.md",
-    "영구 노트/노트 템플릿 사용.md",
-    "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
-    "노트 템플릿/TIL.md",
-    "노트 템플릿/SQL CODEKATA.md",
     "영구 노트/노마드코더/유튜브 클론코딩",
     "영구 노트/노마드코더",
-    "영구 노트/스파르타코딩클럽/TIL/2024.09.19 TIL.md",
     "gitignore.txt",
     "gitignore.txt.crdownload",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.10.03 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.10.02 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.10.01 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/2024.09.30 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/WIL/4주차 WIL.md",
-    "영구 노트/스파르타코딩클럽/WIL/2주차 WIL.md",
-    "영구 노트/스파르타코딩클럽/WIL/1주차 WIL.md",
     "영구 노트/스파르타코딩클럽/달리기반/Python",
     "영구 노트/스파르타코딩클럽/달리기반/python",
     "영구 노트/스파르타코딩클럽/달리기반/SQL",
     "영구 노트/스파르타코딩클럽/달리기반",
-    "Excalidraw",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙48.png",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙47.png",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙46.png",
