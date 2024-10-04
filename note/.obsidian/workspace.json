@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노트 템플릿/Nomad coder/Fullstack GPT.md",
+                "file": "영구 노트/노마드코더/풀스택 GPT/2. INTRODUCTION.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노트 템플릿/Nomad coder/Fullstack GPT.md",
+                "file": "영구 노트/노마드코더/풀스택 GPT/2. INTRODUCTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노트 템플릿/Nomad coder/Fullstack GPT.md",
+                "file": "영구 노트/노마드코더/풀스택 GPT/2. INTRODUCTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노트 템플릿/Nomad coder/Fullstack GPT.md"
+                "file": "영구 노트/노마드코더/풀스택 GPT/2. INTRODUCTION.md"
               }
             }
           },
@@ -160,8 +160,11 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
-    "노트 템플릿/Nomad coder/Nomad Coder Youtube.md",
+    "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
+    "영구 노트/노마드코더/유튜브 클론코딩/6. MONGODB AND MONGOOSE.md",
+    "영구 노트/노마드코더/풀스택 GPT/2. INTRODUCTION.md",
     "노트 템플릿/Nomad coder/Fullstack GPT.md",
+    "노트 템플릿/Nomad coder/Nomad Coder Youtube.md",
     "노트 템플릿/Nomad coder/Nomad Coder.md",
     "영구 노트/스파르타코딩클럽/WIL/본캠프/1주차 WIL.md",
     "영구 노트/노마드코더/풀스택 GPT",
@@ -184,9 +187,6 @@
     "영구 노트/스파르타코딩클럽/TIL/9월/2024.09.26 TIL.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.01 알고리즘 CODEKATA.md",
     "임시 노트/3],[4.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.06 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.05 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.04 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/공가사유.jpg",
     "영구 노트/스파르타코딩클럽/WIL/본캠프",
     "영구 노트/스파르타코딩클럽/WIL/새 폴더",
