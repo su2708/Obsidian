@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.13 알고리즘 CODEKATA.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241004 TIL  Pandas 조건부 필터링, 데이터 정렬과 병합.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.13 알고리즘 CODEKATA.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241004 TIL  Pandas 조건부 필터링, 데이터 정렬과 병합.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.13 알고리즘 CODEKATA.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241004 TIL  Pandas 조건부 필터링, 데이터 정렬과 병합.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.13 알고리즘 CODEKATA.md"
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241004 TIL  Pandas 조건부 필터링, 데이터 정렬과 병합.md"
               }
             }
           },
@@ -160,33 +160,33 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.12 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.11 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.10 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.09 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.08 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.13 알고리즘 CODEKATA.md",
-    "영구 노트/노마드코더/풀스택 GPT/2. INTRODUCTION.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.07 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.13 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.12 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.11 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.10 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.09 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.08 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.07 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.06 알고리즘 CODEKATA.md",
-    "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
-    "영구 노트/노마드코더/유튜브 클론코딩/6. MONGODB AND MONGOOSE.md",
-    "노트 템플릿/Nomad coder/Fullstack GPT.md",
-    "노트 템플릿/Nomad coder/Nomad Coder Youtube.md",
-    "노트 템플릿/Nomad coder/Nomad Coder.md",
-    "영구 노트/스파르타코딩클럽/WIL/본캠프/1주차 WIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/10월/241003 TIL  Broadcasting, Pandas 데이터 선택.md",
+    "영구 노트/스파르타코딩클럽/TIL/10월/241002 TIL  Iterator, Generator와 yield, Decorator, Django.md",
+    "영구 노트/스파르타코딩클럽/TIL/10월/241001 TIL  클래스와 객체, OOP의 핵심 개념, 클래스 메서드와 정적 메서드.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240930 TIL  python 함수 기본값, 가변 매개변수, 에러외 예외의 차이.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240927 TIL  Pug에서 변수 활용하기, MVP.css, Pug의 조건문과 반복문.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240926 TIL  Pug.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240925 TIL  URL Parameters.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240924 TIL  Routers.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240923 TIL  HTTP Request & Response, Middleware.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240920 TIL  package.json vs package-lock.json.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240919 TIL  WebPack vs Gulp.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240913 TIL  SAM.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240912 TIL  MySQL에서 최댓값 찾는 방법.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240911 TIL  예외 처리, res.render & return.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240910 TIL  Mixins.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240906 TIL  SQLite.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240904 TIL  RAG.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240903 TIL  Pythonanywhere.md",
+    "영구 노트/스파르타코딩클럽/TIL/9월/240902 TIL  URL에서 데이터 가져오기, Database(DB).md",
+    "영구 노트/스파르타코딩클럽/TIL/8월/240830 TIL  jQuery.md",
+    "영구 노트/스파르타코딩클럽/TIL/8월/240829 TIL  SQL 5주차.md",
+    "영구 노트/스파르타코딩클럽/TIL/8월/240828 TIL  SQL 4주차.md",
+    "영구 노트/스파르타코딩클럽/TIL/8월/240827 TIL  SQL 3주차.md",
+    "영구 노트/스파르타코딩클럽/TIL/8월/240826 TIL  스타터노트, SQL 1주차.md",
+    "영구 노트/스파르타코딩클럽/TIL/10월/241004 TIL  Pandas 조건부 필터링, 데이터 정렬과 병합.md",
+    "노트 템플릿/TIL.md",
     "영구 노트/노마드코더/풀스택 GPT",
-    "영구 노트/스파르타코딩클럽/TIL/10월/2024.10.04 TIL.md",
-    "영구 노트/스파르타코딩클럽/TIL/10월/2024.10.03 TIL.md",
-    "영구 노트/스파르타코딩클럽/TIL/10월/2024.10.01 TIL.md",
-    "영구 노트/스파르타코딩클럽/TIL/10월/2024.10.02 TIL.md",
     "영구 노트/스파르타코딩클럽/공가사유.jpg",
     "영구 노트/스파르타코딩클럽/WIL/본캠프",
     "영구 노트/스파르타코딩클럽/WIL/새 폴더",
