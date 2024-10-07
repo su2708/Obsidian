@@ -15,7 +15,7 @@ DataFrame.pivot_table(index, columns, values, aggfunc)
 	- 개인 필수 과제 3번에서 각 인자에 어떤 값을 넣어줘야 하는지 몰라서 한참 고민했음
 
 
-## 2. map()
+## map()
 ### 1. 기본 형식
 ```python
 map(function, iterable)
