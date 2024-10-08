@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241008 TIL  Pandas apply().md",
+                "file": "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "08c88bce6f22c934",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241008 TIL  Pandas apply().md",
+                "file": "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241008 TIL  Pandas apply().md",
+                "file": "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241008 TIL  Pandas apply().md"
+                "file": "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md"
               }
             }
           },
@@ -161,8 +160,13 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/TIL/10월/241007 TIL  Pandas pivot_table(), map().md",
+    "영구 노트/스파르타코딩클럽/TIL/10월/241009 TIL  LangChain.md",
+    "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
+    "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
+    "영구 노트/노마드코더/유튜브 클론코딩/6. MONGODB AND MONGOOSE.md",
+    "영구 노트/노마드코더/풀스택 GPT/2. INTRODUCTION.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241008 TIL  Pandas apply().md",
+    "영구 노트/스파르타코딩클럽/TIL/10월/241007 TIL  Pandas pivot_table(), map().md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241003 TIL  Broadcasting, Pandas 데이터 선택.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241004 TIL  Pandas 조건부 필터링, 데이터 정렬과 병합.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.13 알고리즘 CODEKATA.md",
@@ -182,11 +186,6 @@
     "영구 노트/스파르타코딩클럽/TIL/9월/240920 TIL  package.json vs package-lock.json.md",
     "영구 노트/스파르타코딩클럽/TIL/9월/240919 TIL  WebPack vs Gulp.md",
     "영구 노트/스파르타코딩클럽/TIL/9월/240913 TIL  SAM.md",
-    "영구 노트/스파르타코딩클럽/TIL/9월/240912 TIL  MySQL에서 최댓값 찾는 방법.md",
-    "영구 노트/스파르타코딩클럽/TIL/9월/240911 TIL  예외 처리, res.render & return.md",
-    "영구 노트/스파르타코딩클럽/TIL/9월/240910 TIL  Mixins.md",
-    "영구 노트/스파르타코딩클럽/TIL/9월/240906 TIL  SQLite.md",
-    "영구 노트/스파르타코딩클럽/TIL/9월/240904 TIL  RAG.md",
     "영구 노트/노마드코더/풀스택 GPT",
     "영구 노트/스파르타코딩클럽/공가사유.jpg",
     "영구 노트/스파르타코딩클럽/WIL/본캠프",
