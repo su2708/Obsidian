@@ -1,6 +1,6 @@
 #TIL #스파르타코딩클럽 [[TIL]]
 
-## 3.1 Predict Messages
+## Predict Messages
 ### 1. ChatOpenAI
 - OpanAI의 chat model(GPT-3.5 또는 GPT-4 등)을 활용하여 대화형 AI 애플리케이션을 구축할 때 사용되는 인터페이스
 - LangChain 프레임워크 내에서 OpenAI의 chat model을 쉽고 유연하게 활용할 수 있도록 도와주는 중요한 컴포넌트
@@ -61,7 +61,7 @@ AIMessage(content='한국과 일본 사이의 거리는 약 900km입니다. 제 
 
 
 
-## 3.2 Prompt Templates
+## Prompt Templates
 ### 1. 왜 prompt가 중요한가?
 1) AI의 행동과 역할 설정
 2) 대화의 맥락과 목적 제공
