@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "08c88bce6f22c934",
@@ -160,8 +161,10 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
-    "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
+    "옵시디언연습/제텔카스텐이란.md",
+    "옵시디언연습/옵시디언 메모링크.md",
     "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
+    "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241011 TIL OutputParser and LCEL, Runnable.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241010 TIL Predict Messages, Prompt Templates.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241009 TIL  LangChain.md",
@@ -184,8 +187,6 @@
     "영구 노트/스파르타코딩클럽/TIL/9월/240927 TIL  Pug에서 변수 활용하기, MVP.css, Pug의 조건문과 반복문.md",
     "영구 노트/스파르타코딩클럽/TIL/9월/240926 TIL  Pug.md",
     "영구 노트/스파르타코딩클럽/TIL/9월/240925 TIL  URL Parameters.md",
-    "영구 노트/스파르타코딩클럽/TIL/9월/240924 TIL  Routers.md",
-    "영구 노트/스파르타코딩클럽/TIL/9월/240923 TIL  HTTP Request & Response, Middleware.md",
     "영구 노트/노마드코더/풀스택 GPT",
     "영구 노트/스파르타코딩클럽/공가사유.jpg",
     "영구 노트/스파르타코딩클럽/WIL/본캠프",
