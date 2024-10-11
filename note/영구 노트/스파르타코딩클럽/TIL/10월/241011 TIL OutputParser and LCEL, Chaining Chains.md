@@ -99,7 +99,7 @@ chain.invoke({
 
 
 
-## 3.4 Chaining Chains
+## Chaining Chains
 ### 1. Runnable
 - LangChain에서 다양한 작업을 처리하고 연결하는 기본적인 구성 요소 
 - 함수나 작업을 실행할 수 있는 객체를 의미
@@ -116,3 +116,56 @@ chain.invoke({
 3) 유연성과 확장성
 	- `Runnable`은 다양한 유형의 작업을 지원하기 때문에, 텍스트 변환, 데이터 필터링, 모델 호출, API 요청 등 다양한 작업을 수행 가능
 	- 사용자 정의 `Runnable`을 만들 수도 있어, 특정 애플리케이션에 맞는 작업을 쉽게 확장 가능
+
+
+### 3. The input type and output type varies by component
+| Component    | Input Type                                            | Output Type           |
+| ------------ | ----------------------------------------------------- | --------------------- |
+| Prompt       | Dictionary                                            | PromptValue           |
+| ChatModel    | Single string, list of chat messages or a PromptValue | ChatMessage           |
+| LLM          | Single string, list of chat messages or a PromptValue | String                |
+| OutputParser | The output of an LLM or ChatModel                     | Depends on the parser |
+| Retriever    | Single string                                         | List of Documents     |
+| Tool         | Single string or dictionary, depending on the tool    | Depends on the tool   |
+
+
+### 4. Chaining Chains
+```python
+"""
+세프에게 원하는 나라의 따라하기 쉬운 음식 레시피를 물어보고(chef_chain), 그 레시피를 채식 전문 세프에게 대체 레시피를 얻는 과정(veg_chain)
+그 과정을 final_chain으로 묶어 한번에 처리
+"""
+
+from langchain.chat_models import ChatOpenAI
+from langchain.prompts import ChatPromptTemplate
+from langchain.callbacks import StreamingStdOutCallbackHandler
+
+# streaming: LLM의 응답이 생성되는걸 볼 수 있게 해줌
+# StreamingStdOutCallbackHandler: console에서 응답의 진행을 볼 수 있음
+chat = ChatOpenAI(
+    temperature=0.1, streaming=True, callbacks=[StreamingStdOutCallbackHandler()]
+)
+
+chef_prompt = ChatPromptTemplate.from_messages([
+    ("system", "You are a world-class international chef. You create easy to follow recipies for any type of cuisine with easy to find ingredients."),
+    ("human", "I want to cook {cuisine} food."),
+])
+
+chef_chain = chef_prompt | chat
+```
+```python
+veg_chef_prompt = ChatPromptTemplate.from_messages([
+
+    ("system", "You are a vegetarian chef specialized on making traditional recipies vegetarian. You find alternative ingredients and explain their preparation. You don't radically modify the recipe. If there is no alternative for a food just say you don't know how to replace it."),
+    ("human", "{recipe}")
+])
+
+veg_chain = veg_chef_prompt | chat
+```
+```python
+final_chain = {"recipe": chef_chain} | veg_chain
+
+final_chain.invoke({
+    "cuisine": "indian"
+})
+```
