@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/WIL/본캠프/2주차 WIL.md",
+                "file": "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/WIL/본캠프/2주차 WIL.md",
+                "file": "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/WIL/본캠프/2주차 WIL.md",
+                "file": "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/WIL/본캠프/2주차 WIL.md"
+                "file": "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md"
               }
             }
           },
@@ -161,13 +161,13 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/WIL/본캠프/1주차 WIL.md",
     "영구 노트/스파르타코딩클럽/WIL/본캠프/2주차 WIL.md",
-    "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241011 TIL OutputParser and LCEL, Chaining Chains.md",
-    "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
-    "영구 노트/스파르타코딩클럽/TIL/10월/241010 TIL Predict Messages, Prompt Templates.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241008 TIL  Pandas apply().md",
+    "영구 노트/스파르타코딩클럽/WIL/본캠프/1주차 WIL.md",
+    "영구 노트/스파르타코딩클럽/TIL/10월/241010 TIL Predict Messages, Prompt Templates.md",
+    "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
+    "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
     "옵시디언연습/제텔카스텐이란.md",
     "옵시디언연습/옵시디언 메모링크.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241009 TIL  LangChain.md",
