@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241013 LengthBasedExampleSelector, Serialization and Composition, Caching.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241013 LengthBasedExampleSelector, Serialization and Composition, Caching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241013 LengthBasedExampleSelector, Serialization and Composition, Caching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md"
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241013 LengthBasedExampleSelector, Serialization and Composition, Caching.md"
               }
             }
           },
@@ -160,9 +160,10 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/TIL/10월/241011 TIL OutputParser and LCEL, Chaining Chains.md",
-    "영구 노트/스파르타코딩클럽/TIL/10월/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
     "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
+    "영구 노트/스파르타코딩클럽/TIL/10월/241013 LengthBasedExampleSelector, Serialization and Composition, Caching.md",
+    "영구 노트/스파르타코딩클럽/TIL/10월/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
+    "영구 노트/스파르타코딩클럽/TIL/10월/241011 TIL OutputParser and LCEL, Chaining Chains.md",
     "영구 노트/스파르타코딩클럽/WIL/본캠프/2주차 WIL.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241008 TIL  Pandas apply().md",
     "영구 노트/스파르타코딩클럽/WIL/본캠프/1주차 WIL.md",
@@ -185,7 +186,6 @@
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.11 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241002 TIL  Iterator, Generator와 yield, Decorator, Django.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241001 TIL  클래스와 객체, OOP의 핵심 개념, 클래스 메서드와 정적 메서드.md",
-    "영구 노트/스파르타코딩클럽/TIL/9월/240930 TIL  python 함수 기본값, 가변 매개변수, 에러외 예외의 차이.md",
     "영구 노트/노마드코더/풀스택 GPT",
     "영구 노트/스파르타코딩클럽/공가사유.jpg",
     "영구 노트/스파르타코딩클럽/WIL/본캠프",
