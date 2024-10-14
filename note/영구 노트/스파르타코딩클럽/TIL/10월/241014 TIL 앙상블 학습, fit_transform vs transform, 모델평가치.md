@@ -79,12 +79,13 @@ X_test_scaled = scaler.transform(X_test)  # 학습된 scaler로 X_test 데이터
 ```
 [[40  3]
  [ 3 68]]
-
-"""
-TP FN
-FP TN
-"""
 ```
+
+|            | Predicted No | Predicted Yes |
+| :--------: | :----------: | :-----------: |
+| Actual No  |   TN = 40    |    FP = 3     |
+| Actual Yes |    FN = 3    |    TP = 68    |
+
 - 정의: 모델의 예측과 실제 값 간의 관계를 행렬 형태로 나타낸 것
 - 해석:
     - 40: 실제 '0'이고 '0'으로 예측한 경우(True Negative).
