@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241014.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241014.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241014.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241014.md"
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md"
               }
             }
           },
@@ -160,10 +160,10 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
+    "영구 노트/스파르타코딩클럽/TIL/10월/241013 TIL LengthBasedExampleSelector, Serialization and Composition, Caching.md",
+    "영구 노트/스파르타코딩클럽/TIL/10월/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.18 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/TIL/10월/241014.md",
     "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
-    "영구 노트/스파르타코딩클럽/TIL/10월/241013 LengthBasedExampleSelector, Serialization and Composition, Caching.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.20 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.19 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.17 SQL CODEKATA.md",
