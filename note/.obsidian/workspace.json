@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241014.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241014.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241014.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md"
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241014.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
+    "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241014.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241013 LengthBasedExampleSelector, Serialization and Composition, Caching.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.20 SQL CODEKATA.md",
@@ -174,7 +175,6 @@
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.10 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.11 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.12 SQL CODEKATA.md",
-    "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241011 TIL OutputParser and LCEL, Chaining Chains.md",
     "영구 노트/스파르타코딩클럽/WIL/본캠프/2주차 WIL.md",
