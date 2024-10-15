@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리.md",
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리.md"
+                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md"
               }
             }
           },
@@ -160,13 +160,13 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
+    "영구 노트/스파르타코딩클럽/TIL/10월/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
+    "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
     "옵시디언연습/옵시디언 마크다운.md",
     "옵시디언연습/옵시디언 메모링크.md",
     "옵시디언연습/제텔카스텐이란.md",
     "옵시디언연습/옵시디언 사용법 설명서.md",
-    "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.15 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/TIL/10월/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.12 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241013 TIL LengthBasedExampleSelector, Serialization and Composition, Caching.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.18 SQL CODEKATA.md",
