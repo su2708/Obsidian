@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.28 SQL CODEKATA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.28 SQL CODEKATA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.28 SQL CODEKATA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md"
+                "file": "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.28 SQL CODEKATA.md"
               }
             }
           },
@@ -160,6 +160,16 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.27 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.28 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.26 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.25 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.24 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.23 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.22 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.21 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.20 SQL CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.20 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.15 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.10 알고리즘 CODEKATA.md",
@@ -168,7 +178,6 @@
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.18 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.19 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.16 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
     "옵시디언연습/옵시디언 마크다운.md",
     "옵시디언연습/옵시디언 메모링크.md",
@@ -177,15 +186,6 @@
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.12 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/TIL/10월/241013 TIL LengthBasedExampleSelector, Serialization and Composition, Caching.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.18 SQL CODEKATA.md",
-    "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.20 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.19 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.17 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.16 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.15 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.13 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.14 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.10 SQL CODEKATA.md",
     "영구 노트/노마드코더/풀스택 GPT",
     "영구 노트/스파르타코딩클럽/공가사유.jpg",
     "영구 노트/스파르타코딩클럽/WIL/본캠프",
