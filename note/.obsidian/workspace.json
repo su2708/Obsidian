@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/본캠프/파이썬.md",
+                "file": "영구 노트/스파르타코딩클럽/본캠프/머신러닝.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/본캠프/파이썬.md",
+                "file": "영구 노트/스파르타코딩클럽/본캠프/머신러닝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/본캠프/파이썬.md",
+                "file": "영구 노트/스파르타코딩클럽/본캠프/머신러닝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/본캠프/파이썬.md"
+                "file": "영구 노트/스파르타코딩클럽/본캠프/머신러닝.md"
               }
             }
           },
@@ -160,6 +160,9 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
+    "영구 노트/스파르타코딩클럽/본캠프/파이썬 라이브러리.md",
+    "영구 노트/스파르타코딩클럽/본캠프/머신러닝.md",
+    "영구 노트/스파르타코딩클럽/본캠프/파이썬.md",
     "노트 템플릿/Zettelkasten.md",
     "노트 템플릿/주식/매매일지.md",
     "노트 템플릿/스파르타/CODEKATA/SQL CODEKATA.md",
@@ -172,7 +175,6 @@
     "노트 템플릿/Nomad coder/Fullstack GPT.md",
     "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
     "노트 템플릿/스파르타/본캠프/main_camp.md",
-    "영구 노트/스파르타코딩클럽/본캠프/파이썬.md",
     "노트 템플릿/스파르타/본캠프",
     "노트 템플릿/스파르타/달리기반/달리기반.md",
     "노트 템플릿/스파르타",
@@ -187,8 +189,6 @@
     "영구 노트/TIL/10월/241016 TIL next(), 신경망.md",
     "영구 노트/노트 템플릿 사용.md",
     "영구 노트/주식/하승훈의 주식투자tv/호가창 보는 법/호가 창 분석과 단타.md",
-    "영구 노트/주식/하승훈의 주식투자tv/하승훈.md",
-    "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
     "노트 템플릿/주식",
     "영구 노트/WIL/본캠프",
     "영구 노트/WIL/사전캠프",
