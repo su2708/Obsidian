@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/TIL/10월/241016 TIL next.md",
+                "file": "영구 노트/TIL/10월/241016 TIL next(), 신경망.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/TIL/10월/241016 TIL next.md",
+                "file": "영구 노트/TIL/10월/241016 TIL next(), 신경망.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/TIL/10월/241016 TIL next.md",
+                "file": "영구 노트/TIL/10월/241016 TIL next(), 신경망.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/TIL/10월/241016 TIL next.md"
+                "file": "영구 노트/TIL/10월/241016 TIL next(), 신경망.md"
               }
             }
           },
@@ -187,7 +187,7 @@
     "영구 노트/WIL/본캠프",
     "영구 노트/WIL/사전캠프",
     "영구 노트/WIL",
-    "영구 노트/TIL/10월/241016 TIL next.md",
+    "영구 노트/TIL/10월/241016 TIL next(), 신경망.md",
     "영구 노트/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
     "영구 노트/TIL/10월/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
     "영구 노트/TIL/10월",
