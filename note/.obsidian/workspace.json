@@ -11,12 +11,8 @@
             "id": "20955087d207a11a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241016 TIL next.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241016 TIL next.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241016 TIL next.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "영구 노트/스파르타코딩클럽/TIL/10월/241016 TIL next.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,43 +152,43 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.31 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/TIL/10월/241016 TIL next.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.30 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.29 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.28 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.27 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.26 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.25 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.24 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.23 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.22 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.21 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월/2024.10.20 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.20 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.15 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.10 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.14 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.17 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.18 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.19 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.16 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/TIL/10월/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
-    "옵시디언연습/옵시디언 마크다운.md",
-    "옵시디언연습/옵시디언 메모링크.md",
-    "옵시디언연습/제텔카스텐이란.md",
+    "노트 템플릿/TIL.md",
+    "영구 노트/TIL/8월/240827 TIL  SQL 3주차.md",
+    "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
+    "영구 노트/WIL/본캠프/1주차 WIL.md",
+    "영구 노트/WIL/본캠프/2주차 WIL.md",
+    "영구 노트/WIL/사전캠프/5주차 WIL.md",
+    "영구 노트/WIL/사전캠프/3주차 WIL.md",
+    "영구 노트/WIL/사전캠프/2주차 WIL.md",
+    "영구 노트/WIL/사전캠프/1주차 WIL.md",
+    "영구 노트/WIL/사전캠프/4주차 WIL.md",
+    "영구 노트/WIL/본캠프",
+    "영구 노트/WIL/사전캠프",
+    "영구 노트/WIL",
+    "영구 노트/TIL/10월/241016 TIL next.md",
+    "영구 노트/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
+    "영구 노트/TIL/10월/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
+    "영구 노트/TIL/10월/241013 TIL LengthBasedExampleSelector, Serialization and Composition, Caching.md",
+    "영구 노트/TIL/10월/241009 TIL  LangChain.md",
+    "영구 노트/TIL/10월/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
+    "영구 노트/TIL/10월/241011 TIL OutputParser and LCEL, Chaining Chains.md",
+    "영구 노트/TIL/10월/241010 TIL Predict Messages, Prompt Templates.md",
+    "영구 노트/TIL/10월/241008 TIL  Pandas apply().md",
+    "영구 노트/TIL/10월/241007 TIL  Pandas pivot_table(), map().md",
+    "영구 노트/TIL/10월/241004 TIL  Pandas 조건부 필터링, 데이터 정렬과 병합.md",
+    "영구 노트/TIL/10월/241003 TIL  Broadcasting, Pandas 데이터 선택.md",
+    "영구 노트/TIL/10월/241001 TIL  클래스와 객체, OOP의 핵심 개념, 클래스 메서드와 정적 메서드.md",
+    "영구 노트/TIL/10월/241002 TIL  Iterator, Generator와 yield, Decorator, Django.md",
+    "영구 노트/TIL/9월/240930 TIL  python 함수 기본값, 가변 매개변수, 에러외 예외의 차이.md",
+    "영구 노트/TIL/9월/240927 TIL  Pug에서 변수 활용하기, MVP.css, Pug의 조건문과 반복문.md",
+    "영구 노트/TIL/10월",
+    "영구 노트/TIL/9월",
+    "영구 노트/TIL/8월",
+    "영구 노트/TIL",
     "영구 노트/노마드코더/풀스택 GPT",
     "영구 노트/스파르타코딩클럽/공가사유.jpg",
     "영구 노트/스파르타코딩클럽/WIL/본캠프",
     "영구 노트/스파르타코딩클럽/WIL/새 폴더",
-    "영구 노트/스파르타코딩클럽/WIL/사전캠프",
-    "영구 노트/스파르타코딩클럽/TIL/10월",
-    "영구 노트/스파르타코딩클럽/TIL/새 폴더",
-    "영구 노트/스파르타코딩클럽/TIL/9월",
-    "영구 노트/스파르타코딩클럽/TIL/8월",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/10월",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/새 폴더",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙48.png",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙47.png",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙46.png",
