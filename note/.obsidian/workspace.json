@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
+                "file": "영구 노트/스파르타코딩클럽/본캠프/파이썬.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
+                "file": "영구 노트/스파르타코딩클럽/본캠프/파이썬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
+                "file": "영구 노트/스파르타코딩클럽/본캠프/파이썬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md"
+                "file": "영구 노트/스파르타코딩클럽/본캠프/파이썬.md"
               }
             }
           },
@@ -158,45 +158,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da91ec3bcffc20c7",
+  "active": "20955087d207a11a",
   "lastOpenFiles": [
+    "노트 템플릿/Zettelkasten.md",
+    "노트 템플릿/주식/매매일지.md",
+    "노트 템플릿/스파르타/CODEKATA/SQL CODEKATA.md",
+    "노트 템플릿/스파르타/CODEKATA/CODEKATA.md",
+    "노트 템플릿/Nomad coder/Nomad Coder Youtube.md",
+    "노트 템플릿/Nomad coder/Nomad Coder.md",
+    "노트 템플릿/주식/주식.md",
+    "노트 템플릿/Note Template.md",
+    "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
+    "노트 템플릿/Nomad coder/Fullstack GPT.md",
+    "영구 노트/노마드코더/유튜브 클론코딩/5. TEMPLATES.md",
+    "노트 템플릿/스파르타/본캠프/main_camp.md",
+    "영구 노트/스파르타코딩클럽/본캠프/파이썬.md",
+    "노트 템플릿/스파르타/본캠프",
+    "노트 템플릿/스파르타/달리기반/달리기반.md",
+    "노트 템플릿/스파르타",
+    "노트 템플릿/스파르타/CODEKATA/알고리즘 CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.01 알고리즘 CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/본캠프/파이썬 - 복사본.md",
+    "영구 노트/스파르타코딩클럽/달리기반/Python/Lv1. 랜덤 닉네임 생성기.md",
+    "노트 템플릿/스파르타/CODEKATA/스파르타",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/9월/2024.09.02 SQL CODEKATA.md",
     "노트 템플릿/TIL.md",
     "노트 템플릿/WIL.md",
-    "노트 템플릿/주식/매매일지.md",
     "영구 노트/TIL/10월/241016 TIL next(), 신경망.md",
     "영구 노트/노트 템플릿 사용.md",
     "영구 노트/주식/하승훈의 주식투자tv/호가창 보는 법/호가 창 분석과 단타.md",
     "영구 노트/주식/하승훈의 주식투자tv/하승훈.md",
     "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
-    "영구 노트/주식/대왕개미 홍인기/대왕개미.md",
-    "노트 템플릿/주식/주식.md",
-    "노트 템플릿/CODEKATA/CODEKATA.md",
     "노트 템플릿/주식",
-    "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
-    "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
-    "노트 템플릿/Nomad coder/Nomad Coder.md",
-    "영구 노트/노마드코더/유튜브 클론코딩/3. INTRODUCTION TO EXPRESS.md",
-    "노트 템플릿/Nomad coder/Fullstack GPT.md",
-    "영구 노트/노마드코더/풀스택 GPT/2. INTRODUCTION.md",
-    "영구 노트/TIL/8월/240827 TIL  SQL 3주차.md",
-    "영구 노트/WIL/본캠프/1주차 WIL.md",
-    "영구 노트/WIL/본캠프/2주차 WIL.md",
-    "영구 노트/WIL/사전캠프/5주차 WIL.md",
-    "영구 노트/WIL/사전캠프/3주차 WIL.md",
-    "영구 노트/WIL/사전캠프/2주차 WIL.md",
-    "영구 노트/WIL/사전캠프/1주차 WIL.md",
-    "영구 노트/WIL/사전캠프/4주차 WIL.md",
     "영구 노트/WIL/본캠프",
     "영구 노트/WIL/사전캠프",
     "영구 노트/WIL",
-    "영구 노트/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
     "영구 노트/TIL/10월",
     "영구 노트/TIL/9월",
     "영구 노트/TIL/8월",
-    "영구 노트/TIL",
-    "영구 노트/노마드코더/풀스택 GPT",
     "영구 노트/스파르타코딩클럽/공가사유.jpg",
-    "영구 노트/스파르타코딩클럽/WIL/본캠프",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙48.png",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙47.png",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙46.png",

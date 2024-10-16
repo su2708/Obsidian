@@ -6,7 +6,57 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file: Note Template",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"노트 템플릿/Nomad coder\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "file: Zettelkasten",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "file: 달리기반",
+      "color": {
+        "a": 1,
+        "rgb": 6084231
+      }
+    },
+    {
+      "query": "path:\"노트 템플릿/스파르타/CODEKATA\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084286
+      }
+    },
+    {
+      "query": "file: main_camp",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "file: 주식 ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
