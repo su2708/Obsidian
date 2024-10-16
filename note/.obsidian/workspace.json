@@ -11,8 +11,12 @@
             "id": "20955087d207a11a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "노트 템플릿/주식/매매일지.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "노트 템플릿/주식/매매일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "노트 템플릿/주식/매매일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "노트 템플릿/주식/매매일지.md"
+              }
             }
           },
           {
@@ -152,9 +160,23 @@
   },
   "active": "20955087d207a11a",
   "lastOpenFiles": [
+    "영구 노트/노트 템플릿 사용.md",
+    "노트 템플릿/주식/매매일지.md",
+    "영구 노트/주식/하승훈의 주식투자tv/호가창 보는 법/호가 창 분석과 단타.md",
+    "영구 노트/주식/하승훈의 주식투자tv/하승훈.md",
+    "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
+    "영구 노트/주식/대왕개미 홍인기/대왕개미.md",
+    "노트 템플릿/주식/주식.md",
+    "노트 템플릿/CODEKATA/CODEKATA.md",
+    "노트 템플릿/주식",
+    "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
+    "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
+    "노트 템플릿/Nomad coder/Nomad Coder.md",
+    "영구 노트/노마드코더/유튜브 클론코딩/3. INTRODUCTION TO EXPRESS.md",
+    "노트 템플릿/Nomad coder/Fullstack GPT.md",
+    "영구 노트/노마드코더/풀스택 GPT/2. INTRODUCTION.md",
     "노트 템플릿/TIL.md",
     "영구 노트/TIL/8월/240827 TIL  SQL 3주차.md",
-    "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
     "영구 노트/WIL/본캠프/1주차 WIL.md",
     "영구 노트/WIL/본캠프/2주차 WIL.md",
     "영구 노트/WIL/사전캠프/5주차 WIL.md",
@@ -168,19 +190,6 @@
     "영구 노트/TIL/10월/241016 TIL next.md",
     "영구 노트/TIL/10월/241015 TIL 베이즈 정리, 엘보우 방법.md",
     "영구 노트/TIL/10월/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
-    "영구 노트/TIL/10월/241013 TIL LengthBasedExampleSelector, Serialization and Composition, Caching.md",
-    "영구 노트/TIL/10월/241009 TIL  LangChain.md",
-    "영구 노트/TIL/10월/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
-    "영구 노트/TIL/10월/241011 TIL OutputParser and LCEL, Chaining Chains.md",
-    "영구 노트/TIL/10월/241010 TIL Predict Messages, Prompt Templates.md",
-    "영구 노트/TIL/10월/241008 TIL  Pandas apply().md",
-    "영구 노트/TIL/10월/241007 TIL  Pandas pivot_table(), map().md",
-    "영구 노트/TIL/10월/241004 TIL  Pandas 조건부 필터링, 데이터 정렬과 병합.md",
-    "영구 노트/TIL/10월/241003 TIL  Broadcasting, Pandas 데이터 선택.md",
-    "영구 노트/TIL/10월/241001 TIL  클래스와 객체, OOP의 핵심 개념, 클래스 메서드와 정적 메서드.md",
-    "영구 노트/TIL/10월/241002 TIL  Iterator, Generator와 yield, Decorator, Django.md",
-    "영구 노트/TIL/9월/240930 TIL  python 함수 기본값, 가변 매개변수, 에러외 예외의 차이.md",
-    "영구 노트/TIL/9월/240927 TIL  Pug에서 변수 활용하기, MVP.css, Pug의 조건문과 반복문.md",
     "영구 노트/TIL/10월",
     "영구 노트/TIL/9월",
     "영구 노트/TIL/8월",
@@ -188,7 +197,6 @@
     "영구 노트/노마드코더/풀스택 GPT",
     "영구 노트/스파르타코딩클럽/공가사유.jpg",
     "영구 노트/스파르타코딩클럽/WIL/본캠프",
-    "영구 노트/스파르타코딩클럽/WIL/새 폴더",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙48.png",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙47.png",
     "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙46.png",

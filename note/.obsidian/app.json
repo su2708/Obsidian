@@ -2,5 +2,6 @@
   "attachmentFolderPath": "/",
   "newFileLocation": "folder",
   "newFileFolderPath": "임시 노트",
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }
