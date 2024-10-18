@@ -16,10 +16,25 @@
                 "file": "영구 노트/스파르타코딩클럽/본캠프/딥러닝.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "딥러닝"
+            }
+          },
+          {
+            "id": "c04b3ce346c7e453",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "딥러닝의 백링크"
             }
           },
           {
@@ -105,7 +128,9 @@
                 "file": "영구 노트/스파르타코딩클럽/본캠프/딥러닝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "딥러닝의 나가는 링크"
             }
           },
           {
@@ -116,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +153,9 @@
               "type": "outline",
               "state": {
                 "file": "영구 노트/스파르타코딩클럽/본캠프/딥러닝.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "딥러닝 개요"
             }
           },
           {
@@ -134,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -158,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20955087d207a11a",
+  "active": "c04b3ce346c7e453",
   "lastOpenFiles": [
     "영구 노트/스파르타코딩클럽/본캠프/딥러닝.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.20 알고리즘 CODEKATA.md",
