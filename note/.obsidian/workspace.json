@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "딥러닝"
             }
-          },
-          {
-            "id": "c04b3ce346c7e453",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c04b3ce346c7e453",
+  "active": "20955087d207a11a",
   "lastOpenFiles": [
     "영구 노트/스파르타코딩클럽/본캠프/딥러닝.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.20 알고리즘 CODEKATA.md",
