@@ -1,28 +1,20 @@
 {
   "main": {
-    "id": "2f54aa0192cd91ca",
+    "id": "fafc7152543a0279",
     "type": "split",
     "children": [
       {
-        "id": "63ea06f141e6d310",
+        "id": "ba29626ccdf1eeec",
         "type": "tabs",
         "children": [
           {
-            "id": "20955087d207a11a",
+            "id": "6734307645cbe71e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구 노트/스파르타코딩클럽/본캠프/AI 활용.md",
-                "mode": "source",
-                "source": false
-<<<<<<< Updated upstream
-              }
-=======
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AI 활용"
->>>>>>> Stashed changes
+              "title": "새 탭"
             }
           }
         ]
@@ -31,120 +23,121 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8935b47f0f063f77",
+    "id": "ee26a30523ed8825",
     "type": "split",
     "children": [
       {
-        "id": "2a0149a22f233fdf",
+        "id": "8804aefa160788b6",
         "type": "tabs",
         "children": [
           {
-            "id": "da91ec3bcffc20c7",
+            "id": "f0d6f8b9f17ddbab",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
-            "id": "3f128ef1297f0923",
+            "id": "29c1f93f90ba97c1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#스파르타코딩클럽",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
-            "id": "cb379f502e7f84c8",
+            "id": "42c46dab6adb31d1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 300
   },
   "right": {
-    "id": "08c88bce6f22c934",
+    "id": "d59af2cb09539eb7",
     "type": "split",
     "children": [
       {
-        "id": "a6b1953369ca8957",
+        "id": "9ef4e89879ab0322",
         "type": "tabs",
         "children": [
           {
-            "id": "d03cc781d0dccdec",
+            "id": "df4cddcb2efb2481",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/본캠프/딥러닝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
             }
           },
           {
-            "id": "af293ae196010f70",
+            "id": "64cebfc5ce4b30c6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/본캠프/딥러닝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
             }
           },
           {
-            "id": "a99ad153516f24f5",
+            "id": "fba448301360fe8f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "d72662d045ee086d",
+            "id": "5ec6b36929c9087e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "영구 노트/스파르타코딩클럽/본캠프/딥러닝.md"
-              }
-            }
-          },
-          {
-            "id": "f145edf5f9feec76",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,7 +146,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-projects:Open projects": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -161,56 +153,10 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20955087d207a11a",
-  "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/본캠프/파이썬 라이브러리.md",
-    "영구 노트/스파르타코딩클럽/본캠프/AI 활용.md",
-    "영구 노트/스파르타코딩클럽/본캠프/파이썬.md",
-    "영구 노트/스파르타코딩클럽/본캠프/머신러닝.md",
-    "영구 노트/스파르타코딩클럽/본캠프/딥러닝.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.31 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.30 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.29 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.28 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.27 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.26 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.25 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.24 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.23 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.22 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.21 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.20 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.19 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.18 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.17 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.16 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.15 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.14 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.13 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.12 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/10월/2024.10.11 알고리즘 CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/11월",
-    "노트 템플릿/스파르타/본캠프",
-    "노트 템플릿/스파르타",
-    "노트 템플릿/스파르타/CODEKATA/스파르타",
-    "노트 템플릿/주식",
-    "영구 노트/WIL/본캠프",
-    "영구 노트/WIL/사전캠프",
-    "영구 노트/WIL",
-    "영구 노트/TIL/10월",
-    "영구 노트/TIL/9월",
-    "영구 노트/스파르타코딩클럽/공가사유.jpg",
-    "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙48.png",
-    "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙47.png",
-    "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙46.png",
-    "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙45.png",
-    "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙44.png",
-    "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙43.png",
-    "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙42.png",
-    "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙41.png",
-    "영구 노트/주식/대왕개미 홍인기/사진자료/트레이딩 기본원칙40.png"
-  ]
+  "active": "6734307645cbe71e",
+  "lastOpenFiles": []
 }
