@@ -35,4 +35,4 @@ model = torch.hub.load('repository_name', 'model_name')
 
 
 
-##
+## 3.1 Hugging Face와 Transformers 라이브러리로 다양한 NLP 모델 살펴보기
