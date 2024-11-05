@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "AI 모델 활용 4주차"
             }
+          },
+          {
+            "id": "23039b72be1944b9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9992f6cf0b455eaf",
+  "active": "23039b72be1944b9",
   "lastOpenFiles": [
     "영구 노트/스파르타코딩클럽/본캠프/ch3_AI_model_utilization/AI활용_강의자료.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch3_AI_model_utilization/AI 모델 활용 4주차.md",
