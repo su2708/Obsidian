@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/본캠프/ch3_AI_model_utilization/AI 모델 활용 2주차.md",
+                "file": "영구 노트/노마드코더/풀스택 GPT/6. RAG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI 모델 활용 2주차"
+              "title": "6. RAG"
             }
           }
         ]
@@ -167,11 +167,15 @@
   },
   "active": "9992f6cf0b455eaf",
   "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/본캠프/ch3_AI_model_utilization/AI 모델 활용 4주차.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.06 알고리즘 CODEKATA.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.05 알고리즘 CODEKATA.md",
+    "영구 노트/노마드코더/풀스택 GPT/6. RAG.md",
+    "영구 노트/노마드코더/풀스택 GPT/5. MEMORY.md",
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/11월/2024.11.06 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch3_AI_model_utilization/AI 모델 활용 2주차.md",
+    "영구 노트/스파르타코딩클럽/본캠프/ch3_AI_model_utilization/AI 모델 활용 4주차.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch3_AI_model_utilization/AI 모델 활용 3주차.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch3_AI_model_utilization/AI활용_강의자료.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.05 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.04 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/11월/2024.11.05 SQL CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/SQL/11월/2024.11.04 SQL CODEKATA.md",
@@ -189,13 +193,9 @@
     "노트 템플릿/스파르타/본캠프/main_camp.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch2_ML_DL/머신러닝_강의자료.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch2_ML_DL/딥러닝_강의자료.md",
-    "노트 템플릿/스파르타/본캠프/ch3_AI_model_utilization.md",
-    "노트 템플릿/스파르타/본캠프/ch2_ML_DL.md",
-    "노트 템플릿/스파르타/본캠프/ch1_python.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch3_AI_model_utilization",
     "영구 노트/스파르타코딩클럽/본캠프/새 폴더",
     "영구 노트/스파르타코딩클럽/본캠프/ch2_ML_DL",
-    "영구 노트/스파르타코딩클럽/본캠프/파이썬_라이브러리_강의자료.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch1_python",
     "영구 노트/노마드코더/풀스택 GPT/images/Embedding.png.crdownload",
     "영구 노트/노마드코더/풀스택 GPT/images/word_algebra.png",
