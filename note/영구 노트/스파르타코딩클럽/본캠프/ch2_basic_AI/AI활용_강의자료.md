@@ -1,4 +1,4 @@
-#본캠프 [[ch3_AI_model_utilization]]
+#본캠프 [[ch2_basic_AI]]
 
 ## AI 활용에 대한 이해: 연구와 활용의 차이
 

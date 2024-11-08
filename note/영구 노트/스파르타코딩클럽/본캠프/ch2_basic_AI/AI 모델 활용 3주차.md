@@ -1,4 +1,4 @@
-#본캠프 [[ch3_AI_model_utilization]]
+#본캠프 [[ch2_basic_AI]]
 
 ## 3.2 Hugging Face: 사전 학습 및 파인 튜닝 이해하기
 ### 사전 학습 (Pre-training)

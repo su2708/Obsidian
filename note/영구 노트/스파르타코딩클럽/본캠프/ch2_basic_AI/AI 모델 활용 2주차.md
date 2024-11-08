@@ -1,4 +1,4 @@
-#본캠프 [[ch3_AI_model_utilization]]
+#본캠프 [[ch2_basic_AI]]
 
 ## 2.2 API로 인공지능 활용하기
 ### API (Application Programmin Interface)
