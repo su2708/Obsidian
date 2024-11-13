@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "7. DocumentGPT"
             }
+          },
+          {
+            "id": "5abcadcb6a23ef38",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9992f6cf0b455eaf",
+  "active": "5abcadcb6a23ef38",
   "lastOpenFiles": [
     "영구 노트/노마드코더/풀스택 GPT/images/caching-high-level-diagram.png",
     "영구 노트/노마드코더/풀스택 GPT/images/caching-high-level-diagram.png.crdownload",
