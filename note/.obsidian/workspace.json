@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/노마드코더/풀스택 GPT/8. PrivateGPT.md",
+                "file": "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/LLM&RAG 강의자료.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. PrivateGPT"
+              "title": "LLM&RAG 강의자료"
+            }
+          },
+          {
+            "id": "157ab53d5191f3dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/Django 강의자료.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Django 강의자료"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,13 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9992f6cf0b455eaf",
+  "active": "157ab53d5191f3dd",
   "lastOpenFiles": [
+    "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/LLM&RAG 강의자료.md",
+    "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/Django 강의자료.md",
+    "영구 노트/노마드코더/풀스택 GPT/8. PrivateGPT.md",
     "영구 노트/노마드코더/풀스택 GPT/images/gpt4all.png",
     "영구 노트/노마드코더/풀스택 GPT/images/스크린샷 2024-11-18 195921.png",
     "영구 노트/노마드코더/풀스택 GPT/7. DocumentGPT.md",
-    "영구 노트/노마드코더/풀스택 GPT/8. PrivateGPT.md",
-    "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/LLM&RAG 강의자료.md",
     "영구 노트/노마드코더/풀스택 GPT/5. MEMORY.md",
     "영구 노트/노마드코더/풀스택 GPT/images/caching-high-level-diagram.png",
     "영구 노트/노마드코더/풀스택 GPT/images/caching-high-level-diagram.png.crdownload",
