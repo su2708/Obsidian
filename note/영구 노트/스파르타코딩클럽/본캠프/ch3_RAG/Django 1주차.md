@@ -57,3 +57,6 @@ python manage.py runserver
 		→ 3버전 이상으로 가면 없어도 되지만, 3버전 이하에서의; 호환성을 위한 규칙
 	- `wsgi.py` : 웹 서버 관련 설정 파일
 	- `manage.py` : Django 프로젝트 유틸리티 (조종기)
+
+---
+## 4. Django App 알아보기
