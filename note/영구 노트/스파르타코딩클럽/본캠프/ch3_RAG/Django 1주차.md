@@ -60,3 +60,28 @@ python manage.py runserver
 
 ---
 ## 4. Django App 알아보기
+### Django App
+- **Django App == 내가 생각하는 하나의 기능 덩어리**
+- 하나의 프로젝트는 여러 개의 앱으로 구성될 수 있음
+	- 프로젝트: 어플리케이션의 집합체
+	- 앱: 각각의 기능 단위 모듈
+
+
+### App 사용하기
+1. App 생성하기
+	- `manage.py`를 이용해 프로젝트를 생성한 후 앱 생성
+	- 앱 생성 코드: `python manage.py startapp <앱 이름>`
+
+2. App 등록하기
+	- `settings.py`의 `INSTALLED_APPS` 부분에 생성한 앱 이름을 넣어 등록
+
+
+### App 살펴보기
+- 앱 내 생성된 파일들
+	- `admin.py` - 관리자용 페이지 관련 설정
+	- `apps.py` - 앱 관련 정보 설정
+	- **`models.py`** - DB관련 데이터 정의 파일
+	- `tests.py` - 테스트 관련 파일
+	- **`views.py`** - 요청을 처리하고 처리한 결과를 반환하는 파일
+
+---
