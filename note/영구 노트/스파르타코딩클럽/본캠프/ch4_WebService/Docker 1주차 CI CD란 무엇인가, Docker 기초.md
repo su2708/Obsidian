@@ -1,6 +1,6 @@
 #본캠프 [[ch4_WebService]]
 
-## 01. CI/CD란 무엇인가
+## 1. CI/CD란 무엇인가
 ### CI/CD의 정의
 ![[CI_CD.webp]]
 - Continuous Integration / Continuous Deployment(Delievery)의 약자로, 지속적인 통합과 지속적인 제공을 의미
@@ -41,7 +41,7 @@
 
 
 ---
-## 02. Docker 기초
+## 2. Docker 기초
 ### 왜 Docker 인가
 - 애플리케이션 개발과 배포가 편함
 	- Docker Container 내부에서 여러 소프트웨어를 설치해도 호스트 OS에는 영향이 없음
@@ -52,7 +52,7 @@
 
 
 ---
-## 03. Docker Image 관리
+## 3. Docker Image 관리
 ### docker image 이해와 구조 확인
 - Docker 이미지 이해
     - Docker Container 서비스를 위한 이미지는 Container 런타임에 필요한 바이너리, 라이브러리 및 설정 값 등을 포함하고, 변경되는 상태값을 보유하지 않고(stateless) 변하지 않음(Immutable, Read-Only)
@@ -181,7 +181,8 @@
     ![[check_docker_desktop.webp]]
     
 
-## 04. Docker Container와 Container 를 다루는 CLI
+--- 
+## 4. Docker Container와 Container 를 다루는 CLI
 ### Docker Image와 Docker Container 사이의 관계
 - Docker Image와 Docker Container의 관계
     
