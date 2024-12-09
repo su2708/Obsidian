@@ -104,4 +104,68 @@ jobs:
 ```
 
 
-### event, runner, job, step
+### event, runner, job, step ![[github_actions.webp]]
+- Workflow
+    - 최상위 개념
+    - 여러 Job으로 구성되고, Event에 의해 트리거될 수 있는 자동화된 프로세스
+    - Workflow 파일은 YAML으로 작성되고, Github Repository의 `.github/workflows` 폴더 아래에 저장됨
+- event
+    - Github Repository에서 발생하는 push, pull request open, issue open, 특정 시간대 반복(cron) 등의 특정한 규칙
+    - workflow 를 실행(trigger)함
+- runner
+    - Github Action Runner app이 설치된 VM
+    - Workflow가 실행될 instance로, 각각의 Job 들은 개별적인 runner에서 실행
+- job
+    - 하나의 runner에서 실행될 여러 step의 모음을 의미
+- step
+    - 실행 가능한 하나의 shell script 또는 action
+- Actions
+    - Workflow의 가장 작은 단위로 재사용이 가능
+    - Job을 만들기 위해 Step들을 연결
+
+- workflow 뜯어보기
+    - name
+        - github actions의 이름을 정하는 부분
+    - on
+        - 이 action이 언제 실행되는지에 대한 부분
+    - jobs
+        - 실제 실행할 내용에 대한 부분
+            - runs-on: 어떤 환경에서 실행하는지 기술
+                - [https://docs.github.com/ko/actions/using-github-hosted-runners/about-github-hosted-runners/about-github-hosted-runners](https://docs.github.com/ko/actions/using-github-hosted-runners/about-github-hosted-runners/about-github-hosted-runners)
+            - steps: 실제 실행할 단계들을 기술
+                - name: 실행에 표시될 이름
+                - uses: 여러 가지 plugin 사용
+                    - 다양한 action들을 사용 - [https://github.com/marketplace?type=actions](https://github.com/marketplace?type=actions)
+                - with: plugin 에서 사용할 파라미터들
+				- run: 실제로 실행할 스크립트
+
+- github actions 예제
+    - `.github/workflows/github-actions-demo.yaml`
+```yaml
+name: GitHub Actions Demo
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
+      - run: echo "🍏 This job's status is ${{ job.status }}."
+```
+
+- 참고: [https://github.com/nbcdocker/github-actions/tree/main](https://github.com/nbcdocker/github-actions/tree/main)
+- 비어 있는 github repository를 만들고 위 데모를 push 해서 실행시켜봅시다!
+
+
+
+---
+## 2. Github Actions 을 활용한 CI/CD 파이프라인 (2/3)
