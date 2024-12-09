@@ -175,47 +175,32 @@
     
     - 명령을 통해 등록 후 관리되는 Access Token 리스트
         -  [https://hub.docker.com/settings/security](https://hub.docker.com/settings/security)
-        
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/3382c5b9-ef6d-4122-9455-e81085aca5fe/Untitled.png)
+        ![[hub_docker_security.webp]]
         
 - Docker Desktop 확인
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/ca66fd8b-08c1-451f-8574-2023d4449115/Untitled.png)
+    ![[check_docker_desktop.webp]]
     
 
 ## 04. Docker Container와 Container 를 다루는 CLI
-
-<aside> ✔️ **Docker Image와 Docker Container 사이의 관계에 대해 알아봅니다.**
-
-</aside>
-
+### Docker Image와 Docker Container 사이의 관계
 - Docker Image와 Docker Container의 관계
     
     - Image: 컨테이너에 대한 OS, Application, Library 등등의 정보를 담고 있음
     - Container: Image를 실행한 상태. 1개의 Image로 부터 N개의 Container를 생성할 수 있는 1:N의 관계.
         - Image는 내가 만들고 싶은 붕어빵의 정보를 갖고 있는 틀이라면, Container는 구워낸 붕어빵
+    ![[DockerImage_DockerContainer.webp]]
     
-    ![제목 없음.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/c889d8d0-2eac-44d3-a42f-adcafb338eb5/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.jpg)
-    
 
-<aside> ✔️ **Docker Container에 대해서 알아보고 Container를 다루는 명령어들을 알아봅니다.**
-
-</aside>
-
+### Docker Container를 다루는 명령어
 - Docker 이미지/Container 관련 명령어
-    
-    ![https://segmentfault.com/a/1190000005802339](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/523ed902-2ad6-47d0-9839-5f2d60231b27/Untitled.png)
-    
+	![[Container 명령어.webp]]
     [https://segmentfault.com/a/1190000005802339](https://segmentfault.com/a/1190000005802339)
     
 - Docker 생애 주기(Lifecycle)
-    
-    ![https://docker-saigon.github.io/post/Docker-Internals/](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/e6815b14-8f2c-44ee-b18d-22f869c03479/Untitled.png)
-    
+    ![[Docker_Lifecycle.webp]]
     [https://docker-saigon.github.io/post/Docker-Internals/](https://docker-saigon.github.io/post/Docker-Internals/)
     
 - Docker Container 수동 생성
-    
     ```bash
     docker pull ubuntu:22.04
     docker images
@@ -236,7 +221,6 @@
     ```
     
 - Docker Container 는 프로세스
-    
     ```bash
     docker run -ti --name=ubuntu2204test3 ubuntu:22.04 /bin/bash
     root@1cd125b32870:/#
@@ -248,14 +232,10 @@
     ```
     
 - Container 명령 테스트
-    
     - 샘플 파일
-        
         [container-sample.zip](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/70d5dd95-9e85-4ee2-a6cb-803b38652ab0/container-sample.zip)
         
-    - 컨테이너 명령 테스트
-        
-    
+    - 컨테이너 명령 테스트  
     ```bash
     cd ~
     mkdir nodejsapp
@@ -271,7 +251,6 @@
     ```
     
 - docker run 자주 사용하는 옵션
-    
     - `-d`: detached mode; 백그라운드 모드
     - `-p`: 호스트와 컨테이너의 포트를 연결(포워딩)
     - `-v`: 호스트와 컨테이너의 디렉토리를 연결(마운트)
@@ -279,8 +258,8 @@
     - `-name`: 컨테이너 이름 설정
     - `-rm`: 프로세스 종료 시 컨테이너 자동 삭제
     - `-ti`: -i 와 -t 를 동시에 사용한 것으로 터미널 입력을 위한 옵션
+
 - 실행 중인 Container에 대한 정보
-    
     ```bash
     # 컨테이너에서 실행 중인 프로세스 조회
     docker top node-test 
@@ -302,7 +281,6 @@
     ```
     
 - `docker logs`
-    
     ```bash
     # 표준 출력(stdout), 표준에러(stderr) 출력
     docker logs node-test 
@@ -319,7 +297,6 @@
     ```
     
 - `docker [container] inspect`
-    
     ```bash
     # 컨테이너 내부 확인
     docker inspect node-test
@@ -348,7 +325,6 @@
     ```
     
 - `docker stop` | `start` | `pause` | `unpause`
-    
     ```bash
     # 터미널1, 도커 상태 확인
     docker stats
@@ -368,7 +344,6 @@
     ```
     
 - `docker exit code`
-    
     - 0
         - Docker Process가 수행해야 할 모든 Command 또는 Shell을 실행하고 정상 종료
     - 255
@@ -390,14 +365,10 @@
     - 149
         - 자식 프로세스가 종료 되어 종료 됨
 
-<aside> ✔️ **Docker Container를 정리하는 방법을 알아봅니다.**
 
-</aside>
-
+### Docker Container를 정리하는 방법
 - `docker container prune`
-    
     - 실행 중이 아닌 모든 컨테이너를 삭제
-    
     ```bash
     # 중지된 컨테이너를 포함하여 모든 컨테이너 리스트
     docker container ls -a
@@ -407,9 +378,7 @@
     ```
     
 - `docker image prune`
-    
     - 태그가 붙지 않은(dangling) 모든 이미지 삭제
-    
     ```bash
     # 
     docker image prune
@@ -419,9 +388,7 @@
     ```
     
 - `docker system prune`
-    
     - 사용하지 않는 도커 이미지, 컨테이너, 볼륨, 네트워크 등 모든 도커 리소스를 일괄적으로 삭제
-    
     ```bash
     docker system prune
     ```
