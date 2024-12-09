@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba29626ccdf1eeec",
+        "id": "52fcfcfccb64cf49",
         "type": "tabs",
         "children": [
           {
-            "id": "9992f6cf0b455eaf",
+            "id": "899e9b72209149b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,8 +165,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9992f6cf0b455eaf",
+  "active": "899e9b72209149b0",
   "lastOpenFiles": [
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Docker_Lifecycle.webp",
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Docker_Lifecycle.webp.crdownload",
+    "임시 노트/ㅁㅇㄹ.md",
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 1주차 CI CD란 무엇인가, Docker 기초.md",
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Container 명령어.webp",
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Container 명령어.webp.crdownload",
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/DockerImage_DockerContainer.webp",
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/DockerImage_DockerContainer.webp.crdownload",
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/check_docker_desktop.webp",
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/check_docker_desktop.webp.crdownload",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/hub_docker_security.webp",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/hub_docker_security.webp.crdownload",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Docker-hub-registry.webp",
@@ -181,7 +191,6 @@
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/CI_CD.webp.crdownload",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Django 강의자료.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/LLM&RAG 강의자료.md",
-    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 1주차 CI CD란 무엇인가, Docker 기초.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/LLM&RAG 5주차.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/LLM&RAG 3주차.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Django 1주차.md",
@@ -189,20 +198,12 @@
     "노트 템플릿/스파르타/본캠프/ch3_RAG.md",
     "영구 노트/스파르타코딩클럽/ch4_WebService/무제 파일.md",
     "영구 노트/노마드코더/풀스택 GPT/5. MEMORY.md",
-    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images",
-    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService",
     "영구 노트/노마드코더/풀스택 GPT/8. PrivateGPT.md",
     "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
     "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
     "영구 노트/노마드코더/풀스택 GPT/7. DocumentGPT.md",
     "영구 노트/노마드코더/풀스택 GPT/6. RAG.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/images/first_django_server.png",
-    "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/images/스크린샷 2024-11-19 195433.png",
-    "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/images",
-    "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/새 폴더",
-    "영구 노트/노마드코더/풀스택 GPT/images/gpt4all.png",
-    "영구 노트/노마드코더/풀스택 GPT/images/스크린샷 2024-11-18 195921.png",
-    "영구 노트/노마드코더/풀스택 GPT/images/caching-high-level-diagram.png",
     "영구 노트/스파르타코딩클럽/본캠프/ch1_python/파이썬_라이브러리_강의자료.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch2_basic_AI/AI 모델 활용 2주차.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch2_basic_AI/AI활용_강의자료.md",
@@ -211,7 +212,6 @@
     "영구 노트/스파르타코딩클럽/본캠프/ch2_basic_AI/머신러닝_강의자료.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch2_basic_AI/딥러닝_강의자료.md",
     "옵시디언연습/옵시디언 마크다운.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/11월/2024.11.06 SQL CODEKATA.md",
-    "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.06 알고리즘 CODEKATA.md"
+    "영구 노트/스파르타코딩클럽/CODEKATA/SQL/11월/2024.11.06 SQL CODEKATA.md"
   ]
 }
