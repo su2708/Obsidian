@@ -11,12 +11,14 @@
             "id": "899e9b72209149b0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_2주차.pdf"
+                "file": "영구 노트/노마드코더/풀스택 GPT/5. MEMORY.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DockerCICD_2주차"
+              "icon": "lucide-file",
+              "title": "5. MEMORY"
             }
           }
         ]
@@ -165,8 +167,8 @@
   },
   "active": "899e9b72209149b0",
   "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_1주차.pdf",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_2주차.pdf",
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_1주차.pdf",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_3주차.pdf",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 2주차 Github Actions를 이용한 CI CD 파이프라인.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 1주차 CI CD란 무엇인가, Docker 기초.md",
