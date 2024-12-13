@@ -11,14 +11,12 @@
             "id": "899e9b72209149b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "영구 노트/노마드코더/풀스택 GPT/5. MEMORY.md",
-                "mode": "source",
-                "source": false
+                "file": "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_3주차.pdf"
               },
-              "icon": "lucide-file",
-              "title": "5. MEMORY"
+              "icon": "lucide-file-text",
+              "title": "DockerCICD_3주차"
             }
           }
         ]
@@ -167,6 +165,7 @@
   },
   "active": "899e9b72209149b0",
   "lastOpenFiles": [
+    "영구 노트/노마드코더/풀스택 GPT/5. MEMORY.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_2주차.pdf",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_1주차.pdf",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_3주차.pdf",
@@ -199,7 +198,6 @@
     "노트 템플릿/스파르타/본캠프/ch4_WebService.md",
     "노트 템플릿/스파르타/본캠프/ch3_RAG.md",
     "영구 노트/스파르타코딩클럽/ch4_WebService/무제 파일.md",
-    "영구 노트/노마드코더/풀스택 GPT/5. MEMORY.md",
     "영구 노트/노마드코더/풀스택 GPT/8. PrivateGPT.md",
     "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
     "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
