@@ -11,12 +11,14 @@
             "id": "899e9b72209149b0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_5주차.pdf"
+                "file": "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Django 기초.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DockerCICD_5주차"
+              "icon": "lucide-file",
+              "title": "Django 기초"
             }
           }
         ]
@@ -165,11 +167,13 @@
   },
   "active": "899e9b72209149b0",
   "lastOpenFiles": [
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/MTV.webp",
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/MTV.webp.crdownload",
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_5주차.pdf",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Docker Volume.webp",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Volume.webp",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Volume.webp.crdownload",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_4주차.pdf",
-    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_5주차.pdf",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Django 기초.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Django 강의자료.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료/DockerCICD_3주차.pdf",
@@ -182,7 +186,6 @@
     "DockerCICD_4주차.pdf",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker/DockerCICD_5주차.pdf",
-    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker/DockerCICD_4주차.pdf",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/개념도.webp",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/github_actions.webp",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Github Actions.webp",
@@ -192,7 +195,6 @@
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/DockerImage_DockerContainer.webp",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/check_docker_desktop.webp",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/hub_docker_security.webp",
-    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Docker-hub-registry.webp",
     "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/LLM&RAG 강의자료.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/LLM&RAG 5주차.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch3_RAG/LLM&RAG 3주차.md",
