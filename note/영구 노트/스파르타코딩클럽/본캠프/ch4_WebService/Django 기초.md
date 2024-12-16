@@ -297,7 +297,7 @@ urlpatterns = [
 - `modles.Model`을 상속받아서 사용하고자 하는 데이터 스키마를 정의
 - 각각의 필드는 테이블의 컬럼
 - 필드의 타입에 따라 사용하며, 각 필드별로 필요한 옵션들이 존재
-	> 참고: [Model Field reference](https://docs.djangoproject.com/en/4.2/ref/models/fields/#field-types)
+> 참고: [Model Field reference](https://docs.djangoproject.com/en/4.2/ref/models/fields/#field-types)
 ```python
 from django.db import models
 
