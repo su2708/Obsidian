@@ -118,3 +118,61 @@ python manage.py runserver
 
 
 ---
+## 9. Django Template System
+### DTL (Django Template Language)
+- Django Template에서 사용하는 문법
+- Django 개발자를 위해 Python과 비슷한 사용 방법을 가짐
+- Python과 비슷하다고 해서 Python이 동작하는 것이 아님에 유의
+
+
+### 변수 (Variable)
+- **변수의 기본 형태: `{{ variable }}`**
+- view의 context로 넘긴 데이터를 접근할 수 있음
+- **`.`** 을 사용하여 변수의 속성 값에 접근 가능
+- `render()`의 세번째 인자인 context에 **`dict()`** 형태로 데이터가 넘겨짐
+- 넘겨진 데이터에서 **`key`** 값이 template에서 사용 가능한 변수가 됨
+
+
+### 필터 (Filter)
+- **필터의 기본 형태: `{{ variable|filter }}`**
+- 변수에 어떠한 작업을 추가적으로 더해 수정하고 싶을 때 사용
+- 약 60개의 built-in filter가 제공되며 일부 필터는 인자를 받기도 함
+
+
+### 태그 (Tag)
+- **태그의 기본 형태: `{% tag %}`**
+- 반복문 또는 논리, 조건문을 수행하여 제어 흐름을 만들거나 특수한 기능을 수행
+- 일부는 시작 태그와 종료 태그가 있음
+```django
+{% if ~ %}
+{% endif %}
+```
+
+
+### 주석 (Comment)
+```django
+{# 한 줄 주석 #}
+
+{% comment %}
+	여러줄
+	주석
+{% endcomment %}
+```
+
+
+### 템플릿 상속 (Template Inheritance)
+- 코드의 재사용성을 높여 코드 중복 문제를 해결
+- 상위 템플릿에 공통이 될 부분을 정의하고 하위 템플릿에서 달라질 부분을 block으로 만드는 skeleton 형태
+
+- 상위 템플릿
+	- **`{% block block_name %}{% endblock block_name %}`**
+	- 상위 템플릿에서 하위 템플릿마다 달라질 부분을 정의
+
+- 하위 템플릿
+	- **`{% extends 'template_name' %}`** 
+	- 하위 템플릿에서 상위 템플릿을 상속한다는 의미
+	- 하위 템플릿의 최상단에 위 명령어가 위치해야함
+	- 다중 상속을 지원하지 않음
+
+
+---
