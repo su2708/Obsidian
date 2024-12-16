@@ -337,3 +337,109 @@ python manage.py sqlmigrate <app_name> <migration_no>
 
 
 ---
+## Django ORM
+### ORM (Object-Relational-Mapping)
+- 파이썬으로 데이터베이스를 조작할 수 있게 해준다는 것
+- SQL을 잘 알지 못해도 DB를 조작 할 수 있고, 잘 알더라도 기존의 복잡한 쿼리 문 없이 객체 지향적인 접근이 가능
+
+
+### Database API
+- Django ORM으로 Database API를 사용해서 DB를 조작
+- **Manager**
+	- 모델 클래스를 생성하면 Django는 자동적으로 CRUD 할 수 있는 Database API를 제공
+	- API와 함께 모델 클래스를 이용하여 DB의 쿼리 작업을 도와주는 Manager도 제공
+	- Manager의 기본 이름은 **`objects`** 
+	- Manager를 이용해서 Django ORM의 Queryset API를 사용
+		- Queryset: ORM을 사용해서 DB로부터 전달받은 객체
+		- 기본 형태: **`<Model Class>.<Manager>.<Queryset API>`** 
+
+
+### CRUD with Shell
+- Django shell: Django가 제공하는 여러가지 기능을 명령어로 입력해서 실행할 수 있는 shell 환경
+- **CRUD**: 대부분의 소프트웨어가 하는 동작인 Create, Read, Update, Delete의 앞 글자
+
+- 생성(Create)
+```python
+# 하나의 Article 생성 방법 (1)
+article = Article()
+article.title = 'first_title'
+article.content = 'first_content'
+
+# 여기에서 전체 Article을 조회해보면
+Article.objects.all() # 비어있다
+
+# save()하기전에는 저장되지 않음
+article.save()
+
+# 다시 전체 Article을 조회해보면 하나의 아티클이 있음
+Article.objects.all()
+
+
+# 속성 하나씩 접근하기
+# 제목 
+article.title
+
+# 내용
+article.content
+
+# 생성일시
+article.create_at
+
+# pk(id)
+article.id
+
+---
+# 하나의 Article 생성 방법 (2)
+article = Article(title='second_title', content='second_content')
+article.save()
+
+---
+# 하나의 Article 생성 방법 (3)
+# save()가 필요하지 않음
+Article.objects.create(title='third title', content='마지막 방법')
+```
+
+- 조회(Read)
+```python
+# 하나의 Article만 조회하기 (get)
+# 조회하는 대상이 하나도 없거나, 2개 이상이면 에러 발생
+Article.objects.get(id=1)
+
+---
+# 전체 Article 조회
+Article.objects.all()
+
+---
+# 조건으로 조회하기
+# 조건에 사용되는 매개변수를 `lookup`이라고 함
+# lookup과 일치되는 객체를 모두 반환
+Article.objects.filter(title='second')
+
+# 다양한 lookup을 제공
+Article.objects.filter(id__gt=2) # 2보다 큰 id
+Article.objects.filter(id__in=[1,2,3]) # 1,2,3에 속하는 id
+Article.objects.filter(content__contains='my') # content에 'my'가 포함된
+...
+```
+
+- 수정(Update)
+```python
+'''
+1. 수정할 객체를 조회
+2. 수정할 내용을 입력
+3. 수정한 것을 DB에 반영
+'''
+article = Article.objects.get(id=1)
+article.title = 'updated title'
+article.save()
+```
+
+- 삭제(Delete)
+```python
+# 삭제할 객체를 조회한 후 삭제
+article = Article.objects.get(id=2)
+article.delete()
+```
+
+
+---
