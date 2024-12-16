@@ -260,7 +260,7 @@ urlpatterns = [
 
 
 ---
-## Django Model
+## 12. Django Model
 ### 용어 정리
 #### Model
 - 저장할 데이터에 대한 필드와 동작들을 포함한 데이터베이스 구조
@@ -337,7 +337,7 @@ python manage.py sqlmigrate <app_name> <migration_no>
 
 
 ---
-## Django ORM
+## 13. Django ORM
 ### ORM (Object-Relational-Mapping)
 - 파이썬으로 데이터베이스를 조작할 수 있게 해준다는 것
 - SQL을 잘 알지 못해도 DB를 조작 할 수 있고, 잘 알더라도 기존의 복잡한 쿼리 문 없이 객체 지향적인 접근이 가능
