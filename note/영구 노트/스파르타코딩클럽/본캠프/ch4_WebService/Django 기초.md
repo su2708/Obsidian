@@ -261,3 +261,79 @@ urlpatterns = [
 
 ---
 ## Django Model
+### 용어 정리
+#### Model
+- 저장할 데이터에 대한 필드와 동작들을 포함한 데이터베이스 구조
+- Django는 Model을 이용해서 데이터를 조작
+- 일반적으로 하나의 Model은 하나의 데이터베이스 테이블을 의미
+
+
+#### 데이터베이스(Database)
+- 잘 정리된 데이터가 모여있는 것
+
+
+#### 쿼리(Query)
+- 데이터베이스를 조작할 수 있는 언어
+
+
+#### 스키마(Schema)
+- 데이터베이스의 구조, 관계 등을 정의한 것
+
+
+#### 테이블(Table)
+- 열(Column) - 속성 / 필드(Field)
+- 행(Row) - 데이터 / 레코드(Record) / 튜플(Tuple)
+- 조직화된 데이터 요소들의 집합
+
+
+#### 데이터베이스 기본 구조
+- 테이블(Table)
+- 기본키, PK(Primary Key)
+- 열(Column)
+- 행(Row)
+
+
+### 모델 작성해보기
+- `modles.Model`을 상속받아서 사용하고자 하는 데이터 스키마를 정의
+- 각각의 필드는 테이블의 컬럼
+- 필드의 타입에 따라 사용하며, 각 필드별로 필요한 옵션들이 존재
+	> 참고: [Model Field reference](https://docs.djangoproject.com/en/4.2/ref/models/fields/#field-types)
+```python
+from django.db import models
+
+class Article(models.Model):
+    title = models.CharField(max_length=50)  # Article table의 title column
+    content = models.TextField()  # content column
+    created_at = models.DateTimeField(auto_now_add=True)  # created_at column
+    updated_at = models.DateTimeField(auto_now=True)  # updated_at column
+```
+
+
+### 마이그레이션(Migration)
+- 현재는 Model 코드는 작성했지만 데이터베이스에 반영이 안된 상태
+- **Django는 마이그레이션을 만들고 이 단위로 데이터베이스에 변경사항을 반영**
+
+
+### 마이그레이션 관련 명령어
+- **model에 생긴 변경사항을 마이그레이션으로 만드는 과정**
+```shell
+python manage.py makemigrations
+```
+
+- **마이그레이션을 실제로 데이터에 반영해서 동기화하는 과정**
+```shell
+python manage.py migrate
+```
+
+- 마이그레이션 목록과 적용여부를 보여주는 명령어
+```shell
+python manage.py showmigration
+```
+
+- 해당 마이그레이션이 어떤 sql문을 작성했는지 보여주는 명령어
+```shell
+python manage.py sqlmigrate <app_name> <migration_no>
+```
+
+
+---
