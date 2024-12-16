@@ -176,3 +176,87 @@ python manage.py runserver
 
 
 ---
+## 11. 다중 앱과 URL
+### Variable Routing
+- URL 일부를 변수로 지정하여, 해당 부분에 들어온 값을 view로 넘겨줄 수 있음
+- view에서 변수를 받아서 그 부분에 맞게 처리
+- 하나의 URL에 여러 페이지를 연결하는 것이 가능
+```python
+# users/urls.py
+path("profile/<str:username>/", views.profile)
+
+# users/views.py
+def profile(request, username):
+	context = {"username": username}
+	return render(request, "profile.html", context)
+```
+```html
+# users/templates/profile.html
+<h1>{{ username }} Profile Page</h1>
+<p> username : {{ username }} </p>
+```
+
+
+### Multiple Apps
+- 하나의 프로젝트는 여러 개의 앱으로 구성됨
+- 각각의 기능별로 나누어서 App으로 분리하는 것이 좋은 구조
+```bash
+.
+|-- articles  // `articles/` 요청을 처리하는 app
+|   ⁝
+|   |-- templates
+|   |   |-- data-catch.html
+|   |   |-- data-throw.html
+|   |   |-- hello.html
+|   |   `-- index.html
+|   |-- urls.py
+|   |   `-- views.py
+|-- db.sqlite3
+|-- manage.py
+|-- my_first_pjt
+|   ⁝
+|   |-- settings.py
+|   `-- urls.py
+|-- templates
+|   `-- base.html
+`-- users  // `users/` 요청을 처리하는 app
+    ⁝
+    |-- templates
+    |   |-- profile.html
+    |   `-- users.html
+    |-- urls.py
+    `-- views.py
+```
+
+
+### Naming URL Patterns
+- 어떠한 URL을 작성할 때 직접 경로를 넣지 않고 각각의 URL에 '이름'을 붙여주는 것
+
+```python
+# /articles/urls.py
+urlpatterns = [
+    path("hello/", views.hello, name="hello"),
+    # data
+    path("data-throw/", views.data_throw, name="data-throw"),
+    path("data-catch/", views.data_catch, name="data-catch"),
+]
+```
+```html
+<!-- /articles/templates/index.html -->
+<!-- href에 경로가 아닌 path의 name을 대신 적어서 경로를 표현 -->
+{% block content %}
+    <h1>INDEX</h1>
+    <nav>
+        <ul>
+            <li><a href="{% url 'hello' %}">Hello</a></li>
+            <li><a href="{% url 'data-throw' %}">Data Throw</a></li>
+            <li><a href="{% url 'users' %}">Users</a></li>
+        </ul>
+    </nav>
+
+    <p>My first Django project is working!</p>
+{% endblock content %}
+```
+
+
+---
