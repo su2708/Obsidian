@@ -504,3 +504,37 @@ article.delete()
 
 ---
 ## 15. Django MTV 사용하기 (RUD)
+### PRG 패턴
+- POST - Redirect - GET 패턴
+	1) POST요청을 서버에서 처리
+	2) 서버에서는 다른 주소로 Redirect하도록 응답
+	3) 브라우저는 GET방식으로 서버를 호출하여 사용자의 요청이 반영된 것을 보여줌
+
+- PRG패턴을 사용하면 반복적인 POST호출을 막을 수 있고 사용자의 입장에서도 처리가 끝나고 처음 단계로 돌아간다는 느낌을 줌
+
+
+---
+## 16. Django Form
+### Django Form Class
+- 유저가 입력하는 데이터는 반드시 **유효성 검사가 필요**
+- 이 과정에서 중복되는 코드가 발생
+- Django에서는 반복 작업을 줄일 수 있는 Form을 제공하지만 꼭 그것을 사용할 필요는 없음
+	- 직접 구현한 Form+View 로직을 사용해도 괜찮음
+
+
+#### Form 선언하기
+- Model 선언과 비슷하게 내가 이 Form에서 입력받고자 하는 **데이터에 대한 명세를 작성**
+```python 
+# articles/forms.py
+from django import forms
+
+class ArticleForm(forms.Form):
+    title = forms.CharField(max_length=10)
+    content = forms.CharField()
+```
+
+#### Form 적용하기
+- 새 글을 작성할 때 적용
+```html
+
+```
