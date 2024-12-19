@@ -860,3 +860,7 @@ def logout(request):
         auth_logout(request)  # 실제 로그아웃 처리를 진행하는 부분 
     return redirect("articles:index")
 ```
+
+
+---
+## 19. 회원기능 구현하기
