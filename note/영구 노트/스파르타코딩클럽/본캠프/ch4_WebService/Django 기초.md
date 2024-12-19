@@ -800,4 +800,63 @@ urlpatterns = [
 - 로그인 == Session을 Create하는 로직
 - Django는 이 과정을 전부 내부적으로 처리할 수 있는 기능을 제공하기 때문에 직접 session에 대한 로직을 작성할 필요는 없음
 
-- 
+- Authentication Form
+	- Django의 Built-in Form
+	- 로그인을 위한 기본적인 form을 제공
+
+- login()
+	- 개발자가 직접 구현하지 않아도 login()함수 하나만 사용하면 로그인 구현 가능
+	- 사용자 로그인 처리를 해주고 내부적으로 session을 사용해서 user 정보를 저장
+
+#### 로그아웃 구현하기
+- 로그아웃 == 서버의 세션 데이터를 지우는 것
+
+- logout()
+	- login()과 마찬가지로 logout()을 사용해 간단하게 기능 구현이 가능
+	- 현재 request에서 가져온 session을 사용하여 DB에서 삭제
+	- 클라이언트 쿠키에서도 삭제
+
+
+#### HTTP 요청을 처리하는 다양한 방법
+- View Decorators
+	- `require_http_methods()`: 특정한 method 요청에 대해서만 허용
+	- `require_POST()`: POST 요청만 허용 (`require_http_methods()`의 짧은 버전)
+
+- 접근 제한하기
+	- `is_authenticated`: 주로 `request.user`가 Auth가 있는 지 확인
+	- `@login_required`
+		- 로그인이 안된 상태로 접근하면 `settings.LOGIN_URL`에 설정된 경로로 이동
+		- 기본 값: `/accounts/login`
+		- 로그인이 되어 있다면 로직을 실행
+	- 로그인 성공 시 이전 페이지로 자동으로 이동
+		- 쿼리스크링에 `next`로 저장
+
+```python
+# accounts/views.py
+from django.shortcuts import render, redirect
+from django.contrib.auth import login as auth_login
+from django.contrib.auth import logout as auth_logout
+from django.contrib.auth.forms import AuthenticationForm
+from django.views.decorators.http import require_POST, require_http_methods
+
+@require_http_methods(["GET", "POST"])  # GET과 POST가 들어올 때만 login 실행 
+def login(request):
+    if request.method == "POST":
+        form = AuthenticationForm(data=request.POST)
+        if form.is_valid():
+            auth_login(request, form.get_user())  # 실제 로그인 처리를 진행하는 부분 
+            
+            # 로그인 성공하면 가려던 곳(next)으로 가고, 아니면 index로 이동 
+            next_path = request.GET.get("next") or "index"
+            return redirect(next_path)
+    else:
+        form = AuthenticationForm()
+    context = {"form": form}
+    return render(request, "accounts/login.html", context)
+
+@require_POST  # POST 요청이 들어올 때만 logout 함수 실행 
+def logout(request):
+    if request.user.is_authenticated:
+        auth_logout(request)  # 실제 로그아웃 처리를 진행하는 부분 
+    return redirect("articles:index")
+```
