@@ -569,6 +569,8 @@ def new(request):
 
 - Form rendering options
 	- label과 input을 렌더링하는 것에 대한 옵션
+		- as_div: \<div> 태그로 감싸져서 렌더링
+		- as_p: \<p> 태그로 감싸져서 렌더링
 	- 공식 문서: [Form Rendering Options](https://docs.djangoproject.com/en/4.2/topics/forms/#form-rendering-options)
 
 - Form Widget
