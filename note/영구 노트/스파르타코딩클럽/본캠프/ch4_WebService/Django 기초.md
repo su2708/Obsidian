@@ -1181,5 +1181,26 @@ class Comment(models.Model):
 - 기본 User Model을 사용하더라도 **Custom User Model을 사용하는 것이 권장**됨
 - `AUTH_USER_MODEL` 설정은 **반드시 프로젝트 최초 마이그레이션에서 함께 진행하는 것을 권장**
 
+```python
+# settings.py
+AUTH_USER_MODEL = "accounts.User"
+```
+```python
+# accounts/models.py
+from django.db import models
+from django.contrib.auth.models import AbstractUser
+
+# Create your models here.
+class User(AbstractUser):
+    pass  # 기본 UserModel을 사용하더라도 Custom User Model을 정의하고 사용하는 걸 권장 
+```
+```python
+# accounts/forms.py
+class CustomUserCreationForm(UserCreationForm):
+    class Meta:
+        model = get_user_model()  # 현재 활성화된 user model인 User를 model로 사용 
+        fields = UserCreationForm.Meta.fields + ()
+```
+
 
 ---
