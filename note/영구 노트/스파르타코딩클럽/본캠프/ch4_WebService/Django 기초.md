@@ -1175,3 +1175,8 @@ class Comment(models.Model):
 
 
 ---
+## 22. Custom UserModel
+### Custom UserModel
+- Django는 **`AUTH_USER_MODEL` setting을 변경하여 기본 User Model을 대체 가능**
+- 기본 User Model을 사용하더라도 **Custom User Model을 사용하는 것이 권장**됨
+- ㅁㅇㅏㅓㅐㅣ
