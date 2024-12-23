@@ -1136,3 +1136,30 @@ def change_password(request):
 - **절대로 개발 서버를 운영 환경에서 사용해서는 안됨**
     - 만약 `python [manage.py](<http://manage.py>) runserver`를 이용해서 배포한다면 문제가 발생
 - Django는 Web Framework이며 실제 운영시에는 웹 서버를 앞쪽에 달아줘야함
+
+
+---
+## 21. Model Relationship (1:N)
+### 1:N 관계
+-  `Article`에 `Author`라는 개념을 둔다면,
+    - 하나의 `Article`은 한 명의 `Author`를 가질 수 있음
+    - **한 명의 `Author`는 여러개의 `Article`을 가질 수 있음 (1:N)**
+- 만약 `Article`에 `Comment`라는 개념을 둔다면,
+    - **하나의 `Article`은 여러개의 `Comment`를 가질 수 있음 (1:N)**
+    - 하나의 `Comment`는 하나의 `Article`을 가질 수 있음
+
+
+### Foreign Key
+- **외래 키**를 의미
+- 관계형 DB에서 한 테이블(A)의 필드 중 다른 테이블(B)의 행을 **유일하게 식별이 가능한 키**
+- 테이블(A)에 설정되는 Foreign Key가 반드시 다른 테이블(B)의 Primary Key일 필요는 없으나 유일하게 식별이 가능해야함
+
+
+### 정참조 & 역참조
+- 정참조
+	- Comment(N) → Article(1) 참조 == 정참조
+	- Comment는 하나의 참조하는 Article이 존재하므로 `comment.article`로 쉽게 접근 가
+
+- 역참조
+	- Article(1) → Comment(N) 참조 == 역참조
+	- Django는 역참조의 경우 참조하는 클래스명에 `_set`을 붙인 manager를 생성
