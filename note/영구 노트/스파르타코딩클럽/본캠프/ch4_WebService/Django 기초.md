@@ -1163,3 +1163,15 @@ def change_password(request):
 - 역참조
 	- Article(1) → Comment(N) 참조 == 역참조
 	- Django는 역참조의 경우 참조하는 클래스명에 `_set`을 붙인 manager를 생성
+	- manager 이름을 변경하려면 아래와 같이 변경 가능
+```python
+# 작성하는 댓글에 대한 모델
+class Comment(models.Model):
+    article = models.ForeignKey(
+        Article, on_delete=models.CASCADE, related_name="comments" # manager 이름 변경
+    )
+    ...
+```
+
+
+---
