@@ -1158,7 +1158,7 @@ def change_password(request):
 ### 정참조 & 역참조
 - 정참조
 	- Comment(N) → Article(1) 참조 == 정참조
-	- Comment는 하나의 참조하는 Article이 존재하므로 `comment.article`로 쉽게 접근 가
+	- Comment는 하나의 참조하는 Article이 존재하므로 `comment.article`로 쉽게 접근 가능 
 
 - 역참조
 	- Article(1) → Comment(N) 참조 == 역참조
