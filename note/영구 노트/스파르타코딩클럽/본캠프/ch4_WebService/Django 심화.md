@@ -1,5 +1,18 @@
 #본캠프 [[ch4_WebService]]
 
+## 3. RESTful API와 JSON
+### RESTful API
+-  API란?
+	- CLI (Command Line Interface) - 명령줄로 소통하는 방법
+	- GUI (Graphic User Interface) - 그래픽으로 유저와 소통하는 방법
+	- API (Application Programming Interface) - 프로그래밍으로 어플리케이션과 소통하는 방법
+
+-  RESTful API란?
+	- REST: 웹에 대한 소프트웨서 설계 방법론
+	- 어플리케이션간 소통하는 방법에 REST적인 표현을 더한 것 → REST 원리를 따라 설계한 API
+
+
+---
 ## 4. Response와 Serializer
 ### **Django Project 기본 세팅**
 1. 가상환경 생성 및 활성화
@@ -24,9 +37,10 @@
 
 ### django seed
 - 개인의 Django models에 맞게 test data를 생성해주는 라이브러리
-
-1. `pip install django-seed`
-2. `settings.py`에 `django_seed` 추가
+- 적용 방법
+	1) `pip install django-seed`
+	2) `settings.py`에 `django_seed` 추가
+	3) `python manage.py seed <앱 이름> --number=<개수>`
 ```python
 INSTALLED_APPS = [
     "django.contrib.admin",
@@ -42,7 +56,6 @@ INSTALLED_APPS = [
     "accounts",
 ]
 ```
-3. seeding: `python manage.py seed <앱 이름> --number=<개수>`
 
 
 ### Response와 Serialization
@@ -66,3 +79,6 @@ INSTALLED_APPS = [
 	- 주요 기능
 		- **직렬화(Serialization)**: Python 데이터 구조(Python 객체, QuerySet 등)를 JSON 형식으로 변환
 		- **역직렬화(Deserialization)**: 클라이언트로부터 받은 JSON 데이터를 Python 데이터로 변환
+
+	- Django는 내부적으로 serializer를 제공하지만 유연하지 않고 모델 구조에 한정된 구조
+	- 모델에 종속적이지 않고 유연하지만 사용하기 편한 Serializer가 필요
