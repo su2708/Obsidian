@@ -1217,7 +1217,43 @@ class CustomUserCreationForm(UserCreationForm):
 	- `related_name` 으로 변경 가능
 - `add()`, `remove()`를 이용해서 관련 객체를 추가, 삭제
 ```python
+# articles/models.py
 
+# 작성하는 글에 대한 모델 
+class Article(models.Model):
+    ...    
+    like_users = models.ManyToManyField(
+        settings.AUTH_USER_MODEL, related_name="like_articles"
+    )
+    ...
+```
+
+- 중계 테이블을 내가 직접 정의하고, 그것을 지정하는 것도 가능
+	- `through`를 사용해 중계 테이블 지정도 가능 
+```python
+# articles/models.py
+
+# 작성하는 글에 대한 모델 
+class Article(models.Model):
+    ...    
+    like_users = models.ManyToManyField(
+        settings.AUTH_USER_MODEL, through="ArticleLike", related_name="like_articles"
+    )
+    ...
+
+# 좋아요 중계 테이블
+class ArticleLike(models.Model):
+	user = models.ForeignKey(
+		settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name="like_articles"
+	)
+
+	article = models.ForeignKey(
+		Article, on_delete=models.CASCADE, related_name="like_users"
+	)
+	
+	rating = models.IntegerField(default=1)
+	created_at = models.DateTimeField(auto_now_add=True)
+	updated_at = models.DateTimeField(auto_now=True)
 ```
 
 
@@ -1277,3 +1313,6 @@ def follow(request, user_pk):
     return redirect("accounts:login")
         
 ```
+
+
+---
