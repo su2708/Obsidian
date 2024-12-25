@@ -1139,7 +1139,7 @@ def change_password(request):
 
 
 ---
-## 21. Model Relationship (1:N)
+## 22. Model Relationship (1:N)
 ### 1:N 관계
 -  `Article`에 `Author`라는 개념을 둔다면,
     - 하나의 `Article`은 한 명의 `Author`를 가질 수 있음
@@ -1175,7 +1175,7 @@ class Comment(models.Model):
 
 
 ---
-## 22. Custom UserModel
+## 23. Custom UserModel
 ### Custom UserModel
 - Django는 **`AUTH_USER_MODEL` setting을 변경하여 기본 User Model을 대체 가능**
 - 기본 User Model을 사용하더라도 **Custom User Model을 사용하는 것이 권장**됨
@@ -1204,7 +1204,7 @@ class CustomUserCreationForm(UserCreationForm):
 
 
 ---
-## 23. Model Relationship (M:N)
+## 24. Model Relationship (M:N)
 ### ManyToMany
 - 다대다(M:N) 관계 설정시 사용하는 모델 필드
     - 예시) 좋아요
