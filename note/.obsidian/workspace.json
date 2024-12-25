@@ -35,8 +35,7 @@
               "title": "Django 심화"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "899e9b72209149b0",
+  "active": "fa0987e86b504b1f",
   "lastOpenFiles": [
-    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Django 기초.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Django 심화.md",
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Django 기초.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Django 강의자료.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/MTV.webp",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/MTV.webp.crdownload",
