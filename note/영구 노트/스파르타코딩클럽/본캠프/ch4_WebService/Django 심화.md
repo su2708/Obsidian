@@ -108,3 +108,92 @@ urlpatterns = [
 ]
 ```
 
+
+### Article 목록 조회
+- `articles/urls.py`
+```python
+app_name = "articles"
+urlpatterns = [
+    path("", views.article_list, name="article_list"),
+]
+```
+
+- `articles/views.py`
+```python
+from rest_framework import status
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+from rest_framework.views import APIView
+from .serializers import ArticleSerializer
+from django.shortcuts import render, get_object_or_404
+from .models import Article
+
+@api_view(["GET", "POST"])  # DRF의 method는 api_view라는 decorator가 필요 
+def article_list(request):
+    if request.method == "GET":
+        # 1. article들을 다 가져오기 
+        articles = Article.objects.all()
+        # 2. 가져온 articles를 json으로 직렬화하는 serializer 선언 
+        serializer = ArticleSerializer(articles, many=True)
+        # 3. data를 직렬화해서 Response로 반환 
+        return Response(serializer.data)
+    
+    elif request.method == "POST":
+        serializer = ArticleSerializer(data=request.data)
+        # raise_exception=True: serializer가 유효하지 않으면 에러 발생 
+        if serializer.is_valid(raise_exception=True):
+            serializer.save()
+            return Response(serializer.data, status=status.HTTP_201_CREATED)
+```
+
+- `@api_view()`
+	- 아무것도 적지 않으면 `GET` 만 허용, 이외의 요청일경우 `405 Method Not Allowed`
+	- DRF의 함수형 뷰의 경우 필수적으로 작성이 필요
+
+
+### Article 상세 조회
+- `articles/urls.py`
+```python
+app_name = "articles"
+urlpatterns = [
+    path("", views.article_list, name="article_list"),
+    path("<int:pk>/", views.article_detail, name="article_detail"),
+]
+```
+
+- `articles/views.py`
+```python
+from rest_framework import status
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+from rest_framework.views import APIView
+from .serializers import ArticleSerializer
+from django.shortcuts import render, get_object_or_404
+from .models import Article
+
+@api_view(["GET", "PUT", "DELETE"])
+def article_detail(request, pk):
+    article = get_object_or_404(Article, pk=pk)
+    if request.method == "GET":
+        serializer = ArticleSerializer(article)
+        return Response(serializer.data)
+    
+    elif request.method == "PUT":
+        # partial=True: 모든 field를 수정하는 것이 아니라 몇몇의 필드만 수정 
+        serializer = ArticleSerializer(article, data=request.data, partial=True)
+        if serializer.is_valid(raise_exception=True):
+            serializer.save()
+            return Response(serializer.data)
+    
+    elif request.method == "DELETE":
+        article.delete()
+        data = {"pk": f"{article.pk} is deleted."}
+        return Response(data, status=status.HTTP_204_NO_CONTENT)
+```
+
+- from rest_framework import status
+	- 조금 더 읽기 쉬운 status code 구성을 제공
+	- 상태코드를 정수로 명시해도 되지만 아래와 같은 형식을 권장
+
+
+---
