@@ -82,3 +82,29 @@ INSTALLED_APPS = [
 
 	- Django는 내부적으로 serializer를 제공하지만 유연하지 않고 모델 구조에 한정된 구조
 	- 모델에 종속적이지 않고 유연하지만 사용하기 편한 Serializer가 필요
+
+
+---
+## 6. DRF Single Model CRUD
+### DRF Single Model CRUD
+- ModelSerializer
+	- Model의 여러가지 필드들을 어떻게 직렬화해서 데이터의 포맷을 잡을지가 핵심
+	- Django의 Model → ModelForm 사용과 굉장히 유사한 형태
+
+- API 설계
+
+| Name          | Method | Endpoint                   |
+| :------------ | :----- | :------------------------- |
+| Article 목록 조회 | GET    | /articles/                 |
+| Article 상세 조회 | GET    | /articles/<int:article_id> |
+| Article 생성    | POST   | /articles/                 |
+| Article 수정    | PUT    | /articles/<int:article_id> |
+| Article 삭제    | DELETE | /articles/<int:article_id> |
+```python
+# api_pjt/urls.py
+urlpatterns = [
+    path("admin/", admin.site.urls),
+    path("api/v1/articles/", include("articles.urls")),
+]
+```
+
