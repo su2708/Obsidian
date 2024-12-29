@@ -396,7 +396,7 @@ class CommentSerializer(serializers.ModelSerializer):
 	- 서버는 토큰을 받으면 `HEADER` + `PAYLOAD` + 비밀키로 생성한 서명값이 토큰의 서명값과 일치하는지를 확인하는 과정을 거쳐서 유효성 여부를 확인
 	- 서명의 유효여부 + 유효기간 내의 토큰인지 확인하여 Auth 과정을 처리
 
-#### Access Token과 Refresh Token
+#### **Access Token과 Refresh Token**
 - Access Token
 	- 요청할 때 인증을 위해 헤더에 포함해야하는 토큰
 	- 매 요청시 보내는 토큰이므로 보안이 취약
