@@ -28,7 +28,8 @@
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsInLinksEnabled": true,
     "debugMode": false,
-    "lucideIconPackType": "native"
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "노트 템플릿": "TiTemplate",
   "영구 노트/주식": "RiStockFill"
