@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "9. QuizGPT"
             }
-          },
-          {
-            "id": "aa81599a777573f1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +166,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "aa81599a777573f1",
+  "active": "fa0987e86b504b1f",
   "lastOpenFiles": [
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.06 알고리즘 CODEKATA.md",
     "영구 노트/노마드코더/풀스택 GPT/9. QuizGPT.md",
