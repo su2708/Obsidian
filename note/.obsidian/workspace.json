@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "52fcfcfccb64cf49",
+        "id": "9daaa0c298e504d4",
         "type": "tabs",
         "children": [
           {
-            "id": "fa0987e86b504b1f",
+            "id": "a25cf834d366f6e5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Django 기초.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Django 기초"
             }
           }
         ]
@@ -164,7 +166,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fa0987e86b504b1f",
+  "active": "a25cf834d366f6e5",
   "lastOpenFiles": [
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.06 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.07 알고리즘 CODEKATA.md",
