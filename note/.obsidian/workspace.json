@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Django 기초"
             }
+          },
+          {
+            "id": "393798c8467457b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +179,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a25cf834d366f6e5",
+  "active": "393798c8467457b6",
   "lastOpenFiles": [
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.06 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.07 알고리즘 CODEKATA.md",
