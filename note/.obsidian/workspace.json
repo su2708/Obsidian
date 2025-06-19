@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "실전 트레이딩 기본 원칙 A to Z"
             }
+          },
+          {
+            "id": "d7e1a0e05fa9d2dd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +179,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fa0987e86b504b1f",
+  "active": "d7e1a0e05fa9d2dd",
   "lastOpenFiles": [
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.07 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.06 알고리즘 CODEKATA.md",
