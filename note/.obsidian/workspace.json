@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
+                "file": "영구 노트/주식/대왕개미 홍인기/단타전략 마스터클래스/3. 장기투자 VS 단기투자 각 특징과 장단점.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "실전 트레이딩 기본 원칙 A to Z"
+              "title": "3. 장기투자 VS 단기투자 각 특징과 장단점"
             }
           }
         ]
@@ -168,9 +168,15 @@
   },
   "active": "fa0987e86b504b1f",
   "lastOpenFiles": [
+    "영구 노트/주식/대왕개미 홍인기/단타전략 마스터클래스/2. 나의 크릇 크기 파악하기.md",
+    "영구 노트/주식/대왕개미 홍인기/단타전략 마스터클래스/3. 장기투자 VS 단기투자 각 특징과 장단점.md",
+    "영구 노트/주식/대왕개미 홍인기/단타전략 마스터클래스/1. 나는 어떤 투자를 해야할까.md",
+    "영구 노트/노마드코더/풀스택 GPT/9. QuizGPT.md",
+    "영구 노트/주식/대왕개미 홍인기/대왕개미.md",
+    "영구 노트/주식/대왕개미 홍인기/단타전략 마스터클래스",
+    "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.07 알고리즘 CODEKATA.md",
     "영구 노트/스파르타코딩클럽/CODEKATA/알고리즘/11월/2024.11.06 알고리즘 CODEKATA.md",
-    "영구 노트/노마드코더/풀스택 GPT/9. QuizGPT.md",
     "영구 노트/노마드코더/풀스택 GPT/7. DocumentGPT.md",
     "영구 노트/노마드코더/풀스택 GPT/8. PrivateGPT.md",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Django 기초.md",
@@ -192,7 +198,6 @@
     "임시 노트/무제 파일.md",
     "DockerCICD_4주차.pdf",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker 강의자료",
-    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/Docker/DockerCICD_5주차.pdf",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/개념도.webp",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/github_actions.webp",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Github Actions.webp",
@@ -208,11 +213,6 @@
     "노트 템플릿/스파르타/본캠프/ch3_RAG.md",
     "영구 노트/스파르타코딩클럽/ch4_WebService/무제 파일.md",
     "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
-    "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md",
-    "영구 노트/노마드코더/풀스택 GPT/6. RAG.md",
-    "영구 노트/스파르타코딩클럽/본캠프/ch1_python/파이썬_라이브러리_강의자료.md",
-    "영구 노트/스파르타코딩클럽/본캠프/ch2_basic_AI/AI 모델 활용 2주차.md",
-    "영구 노트/스파르타코딩클럽/본캠프/ch2_basic_AI/AI활용_강의자료.md",
-    "영구 노트/스파르타코딩클럽/본캠프/ch2_basic_AI/AI 모델 활용 3주차.md"
+    "영구 노트/노마드코더/풀스택 GPT/4. MODEL IO.md"
   ]
 }
