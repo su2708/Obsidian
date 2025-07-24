@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "5. 홍인기의 HTS 세팅법"
             }
-          },
-          {
-            "id": "18789a61a424d7e8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,12 +166,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "18789a61a424d7e8",
+  "active": "fa0987e86b504b1f",
   "lastOpenFiles": [
     "영구 노트/주식/대왕개미 홍인기/단타전략 마스터클래스/3. 장기투자 VS 단기투자 각 특징과 장단점.md",
-    "영구 노트/주식/대왕개미 홍인기/단타전략 마스터클래스/5. 홍인기의 HTS 세팅법.md",
     "영구 노트/주식/대왕개미 홍인기/단타전략 마스터클래스/2. 나의 크릇 크기 파악하기.md",
     "영구 노트/주식/대왕개미 홍인기/단타전략 마스터클래스/1. 나는 어떤 투자를 해야할까.md",
+    "영구 노트/주식/대왕개미 홍인기/단타전략 마스터클래스/5. 홍인기의 HTS 세팅법.md",
     "영구 노트/노마드코더/풀스택 GPT/9. QuizGPT.md",
     "영구 노트/주식/대왕개미 홍인기/대왕개미.md",
     "영구 노트/주식/대왕개미 홍인기/단타전략 마스터클래스",
