@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "정보처리기사 올인원 목차"
             }
+          },
+          {
+            "id": "3bfae7d462d4e297",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
@@ -167,7 +181,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b63d276bb1d3e6ea",
+  "active": "3bfae7d462d4e297",
   "lastOpenFiles": [
     "영구 노트/기사시험/정보처리기사",
     "노트 템플릿/기사시험/정보처리기사.md",
