@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "정보처리기사 올인원 목차"
             }
-          },
-          {
-            "id": "3bfae7d462d4e297",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.9.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "d59af2cb09539eb7",
@@ -181,7 +167,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3bfae7d462d4e297",
+  "active": "f0d6f8b9f17ddbab",
   "lastOpenFiles": [
     "영구 노트/기사시험/정보처리기사",
     "노트 템플릿/기사시험/정보처리기사.md",
