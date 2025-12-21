@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/노마드코더/N8N/1. The Basics of N8N.md",
+                "file": "영구 노트/노마드코더/N8N/How to set up google cloud on n8n on rpi4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. The Basics of N8N"
+              "title": "How to set up google cloud on n8n on rpi4"
             }
           }
         ]
@@ -169,12 +169,13 @@
   },
   "active": "b63d276bb1d3e6ea",
   "lastOpenFiles": [
+    "영구 노트/노마드코더/N8N/How to install n8n on rpi4.md",
+    "영구 노트/노마드코더/N8N/How to set up google cloud on n8n on rpi4.md",
+    "영구 노트/노마드코더/N8N/1. The Basics of N8N.md",
     "영구 노트/노마드코더/N8N/images/node_io.png",
     "영구 노트/노마드코더/N8N/images/스크린샷 2025-12-16 173758.png",
     "영구 노트/노마드코더/N8N/images",
-    "영구 노트/노마드코더/N8N/How to install n8n on rpi4.md",
     "영구 노트/주식/대왕개미 홍인기/실전 트레이딩 기본 원칙 A to Z.md",
-    "영구 노트/노마드코더/N8N/1. The Basics of N8N.md",
     "영구 노트/노마드코더/N8N/0. Introduction.md",
     "영구 노트/노마드코더/풀스택 GPT/2. INTRODUCTION.md",
     "영구 노트/노마드코더/풀스택 GPT/3. WELCOME TO LANGCHAIN.md",
@@ -213,7 +214,6 @@
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/github_actions.webp",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Github Actions.webp",
     "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Docker_Lifecycle.webp",
-    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Container 명령어.webp",
-    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/DockerImage_DockerContainer.webp"
+    "영구 노트/스파르타코딩클럽/본캠프/ch4_WebService/images/Container 명령어.webp"
   ]
 }
