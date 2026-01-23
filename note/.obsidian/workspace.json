@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구 노트/노마드코더/N8N/How to install n8n on rpi4.md",
+                "file": "영구 노트/노마드코더/N8N/How to set up google cloud on n8n on rpi4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to install n8n on rpi4"
+              "title": "How to set up google cloud on n8n on rpi4"
             }
           }
         ]
@@ -169,8 +169,8 @@
   },
   "active": "b63d276bb1d3e6ea",
   "lastOpenFiles": [
-    "영구 노트/노마드코더/N8N/How to set up google cloud on n8n on rpi4.md",
     "영구 노트/노마드코더/N8N/How to install n8n on rpi4.md",
+    "영구 노트/노마드코더/N8N/How to set up google cloud on n8n on rpi4.md",
     "영구 노트/노마드코더/N8N/1. The Basics of N8N.md",
     "영구 노트/노마드코더/N8N/images/node_io.png",
     "영구 노트/노마드코더/N8N/images/스크린샷 2025-12-16 173758.png",
