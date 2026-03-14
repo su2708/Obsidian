@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "전기설비기술기준 목차"
             }
-          },
-          {
-            "id": "591ec7c7aec253e6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +167,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "591ec7c7aec253e6",
+  "active": "b63d276bb1d3e6ea",
   "lastOpenFiles": [
     "영구 노트/기사시험/전기기사/회로이론 목차.md",
     "영구 노트/기사시험/전기기사/제어공학 목차.md",
